@@ -1,4 +1,4 @@
-console.log("Version: 20250725 ##3.3");
+console.log("Version: 3.4");
 function getQ(hname)//获取参数
 {
     var reg=new RegExp("(^|&)"+hname+"=([^&]*)(&|$)","i");
@@ -68,10 +68,10 @@ function tproc2()//预处理
     .catch(error => {return false});
 	xmlDoc=window.globalXmlDom;
 	console.log(xmlDoc); 
-	mhn=Number(xmlDoc.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
-	minhn=Number(xmlDoc.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
-	actualminhn=Number(xmlDoc.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
-	rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
+	mhn=Number(window.globalXmlDom.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
+	minhn=Number(window.globalXmlDom.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
+	actualminhn=Number(window.globalXmlDom.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
+	rg=Number(window.globalXmlDom.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
     return true;
 }
 function run()//БДОХЛХ主页面运行函数
