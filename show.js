@@ -1,4 +1,4 @@
-console.log("Version: 3.4");
+console.log("Version: 3.5");
 function getQ(hname)//获取参数
 {
     var reg=new RegExp("(^|&)"+hname+"=([^&]*)(&|$)","i");
@@ -66,13 +66,17 @@ function tproc2()//预处理
         window.globalXmlDom=xmlDoc0;
     })
     .catch(error => {return false});
+    return true;
+}
+function tproc3()
+{
 	xmlDoc=window.globalXmlDom;
 	console.log(xmlDoc); 
-	mhn=Number(window.globalXmlDom.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
-	minhn=Number(window.globalXmlDom.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
-	actualminhn=Number(window.globalXmlDom.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
-	rg=Number(window.globalXmlDom.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
-    return true;
+	mhn=Number(xmlDoc.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
+	minhn=Number(xmlDoc.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
+	actualminhn=Number(xmlDoc.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
+	rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
+	return;
 }
 function run()//БДОХЛХ主页面运行函数
 {
@@ -85,6 +89,7 @@ function run()//БДОХЛХ主页面运行函数
 		about(-1,true);//输出版权信息
 		return;//不知为何，我试图用IE打开时，什么也没有输出？？（反正都应该不会用这种古董了，算了）
 	}
+	tproc3();
 	qj="["+minhn+","+mhn+"]";
 	console.log("[BasicInfo]: [mhn:"+mhn+" minhn:"+minhn+" actualminhn:"+actualminhn+" rg:"+rg+"]");//输出测试信息
 	if((idd<actualminhn)||(idd>mhn))//没有档案，输出没有档案的说明并停止运行
@@ -165,6 +170,7 @@ function runtable()//БДОХЛХ索引运行函数
 		about(-1,true);//输出版权信息
 		return;
 	}
+	tproc3();
 	for(let j=minhn;j<=mhn;++j)//j相当于run()中的idd变量
 	{
 		dgsest=xmlDoc.getElementById("dgs_"+j).childNodes[0].nodeValue;
