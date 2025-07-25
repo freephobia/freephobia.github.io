@@ -15,7 +15,7 @@ const dg=["类人型哈儿","高智商哈儿","中智商哈儿","低智商哈儿
 const dgclr=["#00FF00","#AA00FF","#FFFF00","#00FFFF","#CC0000","#D06A0D","#6B6895","#2A5750","#FFFFFF","#88AAEE"];//每个ХИРГ的对应颜色
 const clrs=["#FFAAAA","#FFFFAA","#AAFFAA","#AAFFFF","#FFAAFF","#AAFFFF"];//链接颜色，共6个；数据库存储文件URL
 const ne_title="不支持"+TITLE_TAIL,ne_body="<h1 style=\" color: #FFAAAA;\">浏览器版本太旧，请使用更高版本的浏览器</h1>",XMLFILEURL_ORI="haerlib.xml";//База Данных Опасных Хаеры Лаборатории Хаера=БДОХЛХ
-const LIST_LENGTH=14,list1=["[Uns]","[br]","[lstr]","[lstrw]","[rstr]","[flagoj]","[la]","[las]","[lc]","[cfls]","[sub]","[rsub]","[sup]","[rsup]"],list2=["<strong style=\"color: #FF0000;\">[禁止显示]</strong>","\n<br>\n","<strong style=\"color: #FF0000;\">","<strong>","</strong>","\n<br>\n<strong style=\"color: #CC0000;\">（注：图片是此哈儿的个人旗帜，由此哈儿亲自设计）</strong>","<a target=\"_blank\" href=\"index.html?haer=","<a target=\"_blank\" href=\"","</a>","ШИЯЧ","<sub>","</sub>","<sup>","</sup>"];//替换的标识符，应尽快修改
+const list1=["[Uns]","[br]","[lstr]","[lstrw]","[rstr]","[flagoj]","[la]","[las]","[lc]","[cfls]","[sub]","[rsub]","[sup]","[rsup]"],list2=["<strong style=\"color: #FF0000;\">[禁止显示]</strong>","\n<br>\n","<strong style=\"color: #FF0000;\">","<strong>","</strong>","\n<br>\n<strong style=\"color: #CC0000;\">（注：图片是此哈儿的个人旗帜，由此哈儿亲自设计）</strong>","<a target=\"_blank\" href=\"index.html?haer=","<a target=\"_blank\" href=\"","</a>","ШИЯЧ","<sub>","</sub>","<sup>","</sup>"];//替换的标识符，应尽快修改
 var hname,born,des,dgs,info,haerona,dgmhx,age,die,xmlfileurl,localurl=window.location.protocol+"//"+window.location.host;//hname：名称（临时存储用的变量），born：出生年份，des：概要，dgs：ХИРГ（临时存储用的变量），info：信息（描述），haerona：此哈儿的负责人，dgmhx：哈儿性质（0=哈儿，1=哈儿团，2=哈儿簇，临时存储用的变量）,age：年龄（临时存储用的变量），die：被销毁或死亡年份（临时存储用的变量，用以标注年龄），xmlfileurl：XML文件路径，localurl：当前主域名
 var mhn,minhn,thisyear,actualminhn,rg,qj;//mhn为最大编号，minhn为最小编号，直接影响到索引的表格行数和“当前可用编号”的数值；thisyear为当前年份（公历），用于计算哈儿的年龄；actualminhn为实际最小哈儿编号；rg为循环替换如[br]之类的简略符号的循环次数，32次足够多；可用哈儿区间
 var xmlDoc,date=new Date();
@@ -116,7 +116,7 @@ function run()//БДОХЛХ主页面运行函数
 		// info=info.replace("[flagoj]","\n<br>\n<strong style=\"color: #CC0000;\">（注：图片是此哈儿的个人旗帜，由此哈儿亲自设计）</strong>");//哈儿旗帜标识
 		// info=info.replace("[la]","<a target=\"_blank\" href=\"index.html?haer=");
 		// info=info.replace("[las]","<a target=\"_blank\" href=\"");
-		for (let i=0;i<list1.length;++i)info=info.replace(list1[i],list[2]);
+		for (let i=0;i<list1.length;++i)info=info.replace(list1[i],list2[i]);
 		info=info.replace("[lb]","\" style=\"color: "+clrs[Math.floor(Math.random()*60)%6]+";\">");
 		// info=info.replace("[lc]","</a>");
 		// info=info.replace("[cfls]","ШИЯЧ");
