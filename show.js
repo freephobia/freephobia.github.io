@@ -1,4 +1,4 @@
-﻿console.log("Version: 20250725 ##1");
+﻿console.log("Version: 20250725 ##2");
 function getQ(hname)//获取参数
 {
     var reg=new RegExp("(^|&)"+hname+"=([^&]*)(&|$)","i");
@@ -102,6 +102,13 @@ function run()//БДОХЛХ主页面运行函数
 		about(-1,true);//输出版权信息
 		return;
 	}
+	//test
+	const haers=xmlDoc.querySelectorAll('haer');
+	haers.forEach((haer) => {
+		const _hname=haers.querySelector('name').textContent;
+		console.log(_hname);
+	});
+	//test
 	hname=xmlDoc.getElementById("name_"+idd).childNodes[0].nodeValue;
 	born=Number(xmlDoc.getElementById("born_"+idd).childNodes[0].nodeValue);
 	des=xmlDoc.getElementById("des_"+idd).childNodes[0].nodeValue;
@@ -124,7 +131,7 @@ function run()//БДОХЛХ主页面运行函数
 		// info=info.replace("[la]","<a target=\"_blank\" href=\"/?haer=");
 		// info=info.replace("[las]","<a target=\"_blank\" href=\"");
 		for (let i=0;i<list1.length;++i)info=info.replace(list1[i],list2[i]);
-		info=info.replace("[lb]","\" style=\"color: "+clrs[Math.floor(Math.random()*60)%6]+";\">");
+		info=info.replace("[lb]","\" style=\"color: "+clrs[Math.floor(Math.random()*60)%clrs.length]+";\">");
 		// info=info.replace("[lc]","</a>");
 		// info=info.replace("[cfls]","ШИЯЧ");
 		// info=info.replace("[sub]","<sub>");
