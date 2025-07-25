@@ -1,4 +1,4 @@
-console.log("Version: 3.5");
+console.log("Version: 3.5.1");
 function getQ(hname)//获取参数
 {
     var reg=new RegExp("(^|&)"+hname+"=([^&]*)(&|$)","i");
@@ -56,22 +56,11 @@ function tproc()//预处理（XMLHttpRequest方法）
 	rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
 	return true;
 }
-function tproc2()//预处理
-{
-	fetch(XMLFILEURL_ORI)
-   .then(response => response.text())
-   .then(data => {
-        const parser = new DOMParser();
-        let xmlDoc0 = parser.parseFromString(data, 'application/xml');
-        window.globalXmlDom=xmlDoc0;
-    })
-    .catch(error => {return false});
-    return true;
-}
 function tproc3()
 {
 	xmlDoc=window.globalXmlDom;
-	console.log(xmlDoc); 
+	console.log(window.globalXmlDom);
+	console.log(xmlDoc);
 	mhn=Number(xmlDoc.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
 	minhn=Number(xmlDoc.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
 	actualminhn=Number(xmlDoc.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
@@ -82,13 +71,13 @@ function run()//БДОХЛХ主页面运行函数
 {
 	var idd=getQ("haer");//idd：请求的哈儿编号
 	document.getElementById("sid").value=idd;//将编号填充至搜索框内
-	if(!tproc2())//浏览器版本太旧，提示用户更新浏览器
-	{
-		document.getElementById("title").innerHTML=ne_title;//页面标题
-		document.getElementById("main").innerHTML=ne_body;//页面内容（正文）
-		about(-1,true);//输出版权信息
-		return;//不知为何，我试图用IE打开时，什么也没有输出？？（反正都应该不会用这种古董了，算了）
-	}
+	// if(!tproc2())//浏览器版本太旧，提示用户更新浏览器
+	// {
+	// 	document.getElementById("title").innerHTML=ne_title;//页面标题
+	// 	document.getElementById("main").innerHTML=ne_body;//页面内容（正文）
+	// 	about(-1,true);//输出版权信息
+	// 	return;//不知为何，试图用IE打开时，完全没有输出
+	// }
 	tproc3();
 	qj="["+minhn+","+mhn+"]";
 	console.log("[BasicInfo]: [mhn:"+mhn+" minhn:"+minhn+" actualminhn:"+actualminhn+" rg:"+rg+"]");//输出测试信息
@@ -163,13 +152,13 @@ function run()//БДОХЛХ主页面运行函数
 function runtable()//БДОХЛХ索引运行函数
 {
 	let rng="<tr><th>危险哈儿号码</th><th>危险哈儿名称</th><th><a style=\"color: #FFFFFF;\" href=\"\" target=\"_blank\">哈儿综合能力等级</a></th></tr>\n",dgsv,dgsest,dgmht,hnlt;//rng：表格内容，初始化时只有这个表头；dgsv：ХИРГ名称（临时存储用的变量）
-	if(!tproc2())//浏览器版本太旧
-	{
-		document.getElementsByTagName("title")[0].innerHTML=ne_title;//页面标题
-		document.getElementByTagName("body")[0].innerHTML=ne_body;//页面内容（正文）
-		about(-1,true);//输出版权信息
-		return;
-	}
+	// if(!tproc2())//浏览器版本太旧
+	// {
+	// 	document.getElementsByTagName("title")[0].innerHTML=ne_title;//页面标题
+	// 	document.getElementByTagName("body")[0].innerHTML=ne_body;//页面内容（正文）
+	// 	about(-1,true);//输出版权信息
+	// 	return;
+	// }
 	tproc3();
 	for(let j=minhn;j<=mhn;++j)//j相当于run()中的idd变量
 	{
