@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lib>
+	<filedata>
+		<mhn>100</mhn><!--最大哈儿编号-->
+		<minhn>1</minhn><!--最小哈儿编号-->
+		<actualminhn>-1</actualminhn><!--实际最小哈儿编号-->
+		<rg>32</rg><!--循环替换如[br]之类的简略符号的循环次数-->
+	</filedata>
+	<haerdata><!--ĈFLŜ=Школа Иностранных Языков Чэнду=ШИЯЧ-->
+		<haer id="-1">
+			<name id="name_-1">夜车联盟</name>
+			<born id="born_-1">2019</born>
+			<des id="des_-1">ШИЯЧ的恐怖组织之一</des>
+			<dgs id="dgs_-1">7</dgs>
+			<haerona id="haerona_-1">В-1047-74А</haerona>
+			<dgmhx id="dgmhx_-1">1</dgmhx>
+			<die id="die_-1">-1</die>
+			<info id="info_-1">夜车联盟是由Ю先生发起的恐怖组织。这个组织成员个数不明确。[br] 其目的是在晚上从事危险工作，然后到其它ШИЯЧ分配室。[br] ШИЯЧ规定禁止上述行为，但该组织的成员完全违反这些行为。[br] 这个组织中的每个人都有自己的呼叫标志。晚上，总司令Ю先生安排时间让成员们在晚上从事危险工作，[br] 并安排时间去其它ШИЯЧ分配室，未经ШИЯЧ许可。[br] 其成员在分配室门口通常会发出奇怪的声音信号，使分配室内的生物整夜处于活动状态。[br] 有些成员来到分配室门口传达命令，并唤醒其他成员执行任务。这是ШИЯЧ最可怕的恐怖组织之一。</info>
+		</haer>
+		<haer id="0">
+			<name id="name_0">辛格勒联盟</name><!--Синглы联盟，指单身者联盟-->
+			<born id="born_0">2021</born>
+			<des id="des_0">ШИЯЧ最大的恐怖组织</des>
+			<dgs id="dgs_0">0</dgs>
+			<haerona id="haerona_0">Л-1917-11С</haerona>
+			<dgmhx id="dgmhx_0">1</dgmhx>
+			<die id="die_0">-1</die>
+			<info id="info_0">辛格勒联盟是由Уэйн Чищу发起的一个恐怖组织，在ШИЯЧ中四处分布，与炼钢党勾结，试图发动反人类武装行动。[br]他们反对人类正常繁衍子孙的行为，试图从根本上清除人类，以达到他们扭曲内心里的可怕目标。[br] 辛格勒联盟的头目为“联盟总统”，其成员极度狂热，思想变态，无所不为。[br] 他们发动政变，独裁了ШИЯЧ-2019-19，并打击异己者（他们最敌对的人被他们称作“阶级敌人”）和批评者，对正常的人类活动产生极度鄙视。[br] 当外人试图加入时，会遭到其成员恶劣而极端的人身攻击。尽管如此，仍有许多人效仿此组织以达到霸权目的。[br] 哈儿实验室ШИЯЧ地下组织部派遣了3个[la]1[lb]提季提孩子[lc]与其斗争。[br]2022年初，其“阶级敌人”分裂，此联盟亦停止活动。</info>
+		</haer>
+		<haer id="1">
+			<name id="name_1">提季提孩子</name>
+			<born id="born_1">2007</born>
+			<des id="des_1">最可怕的魔鬼之一</des>
+			<dgs id="dgs_1">2</dgs>
+			<haerona id="haerona_1">К-2510-51Й</haerona>
+			<dgmhx id="dgmhx_1">2</dgmhx>
+			<die id="die_1">-1</die>
+			<info id="info_1">它是哈儿实验室的第一个危险哈儿，于2018年4月21日变成哈儿，后分裂出许多副本。[br] 它喜好撕咬任何生物身上凸起的部分，许多人都被咬掉必须的器官而死。[br] 使其停止攻击的条件是其所攻击的对象已被咬成球形或其精力耗尽。[br] 将其杀死后，其尸体会分裂出100余个副本并继续咬人，因此其目前无法被销毁。[br] 截至2021年10月1日，共有约12万个提季提孩子活跃于哈儿实验室，至少有约8万个提季提孩子隐匿于世界各地。</info>
+		</haer>
+		<haer id="2">
+			<name id="name_2">哈儿之王</name>
+			<born id="born_2">1996</born>
+			<des id="des_2">目前智商最低的哈儿</des>
+			<dgs id="dgs_2">4</dgs>
+			<haerona id="haerona_2">Г-6054-18К</haerona>
+			<dgmhx id="dgmhx_2">0</dgmhx>
+			<die id="die_2">-1</die>
+			<info id="info_2">它是目前智商最低的哈儿，应当被销毁。但它由于功能过于简单，将其销毁后发现其依然屹立于原地，并分裂出1个新的个体。[br] 当在哈儿实验室外发现它时严禁移动，否则会遭到其攻击，可能会丧失生命。</info>
+		</haer>
+		<haer id="3">
+			<name id="name_3">空洞孩子</name>
+			<born id="born_3">2006</born>
+			<des id="des_3">能够保护被提季提孩子攻击的不幸者</des>
+			<dgs id="dgs_3">2</dgs>
+			<haerona id="haerona_3">К-2510-51Й</haerona>
+			<dgmhx id="dgmhx_3">0</dgmhx>
+			<die id="die_3">-1</die>
+			<info id="info_3">当一个人被提季提孩子攻击后，它可以帮助此人。但由于它的能力有限，在一个星期内只能帮助一个受伤较轻的人。[br] 用它头上的空洞分泌的液体，与其另一种体液混合，并涂于伤员的伤口。伤员会很快痊愈，并恢复正常生活。[br] 它无法分裂出新的个体，但也无法被人为消灭。</info>
+		</haer>
+		<haer id="4">
+			<name id="name_4">肾先生</name>
+			<born id="born_4">1989</born>
+			<des id="des_4">一个感情破裂的哈儿</des>
+			<dgs id="dgs_4">3</dgs>
+			<haerona id="haerona_4">Т-5991-54К</haerona>
+			<dgmhx id="dgmhx_4">0</dgmhx>
+			<die id="die_4">-1</die>
+			<info id="info_4">它在感情破裂后于街上散步，偶然走进哈儿门。[br]Т-5991-54К同志将它的肾小球和静脉连接在一起，试图制成一个独立的血液循环系统，这导致了他的肾坏死。[br] 由于它进入哈儿门前遭受了最残酷的感情破裂，所以他常常毁掉大多数他认为是情侣的人的肾脏，被鉴定为危险哈儿。</info>
+		</haer>
+		<haer id="5">
+			<name id="name_5">Цай Сюкун病毒</name>
+			<born id="born_5">2020</born>
+			<des id="des_5">存在于计算机中的哈儿</des>
+			<dgs id="dgs_5">6</dgs>
+			<haerona id="haerona_5">ОпенГ-ккмб</haerona>
+			<dgmhx id="dgmhx_5">0</dgmhx>
+			<die id="die_5">2020</die>
+			<info id="info_5">2020年7月22日上午ШИЯЧ的一次技术测试中，有人在其电脑内发现“点我解压Цай Сюкун打篮球视频”的一个应用程序，[br] 打开后电脑损坏，文件全部丢失。[br] 受害者之一的[lstrw]Б-7418-65В[rstr]同志认为自己遭到了报复，[br] 因为前一天晚上他绘制了《坤头套儿》（美术作品）以讽刺中国的一个流量明星。</info>
+		</haer>
+		<haer id="6">
+			<name id="name_6">橄榄先生</name>
+			<born id="born_6">2006</born>
+			<des id="des_6">研究其它哈儿的哈儿</des>
+			<dgs id="dgs_6">4</dgs>
+			<haerona id="haerona_6">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_6">0</dgmhx>
+			<die id="die_6">-1</die>
+			<info id="info_6">在一次失败的实验中，橄榄先生发生了意外，但幸存了下来。他具有奉献精神，帮助我们研究其它哈儿，数次身负重伤。[br] 其于2021年9月1日获得哈儿实验室建设模范勋章。[br] 其哈儿实验室编制号码为：[lstrw]Л-9218-73З[rstr]。</info>
+		</haer>
+		<haer id="7">
+			<name id="name_7">小哈儿</name>
+			<born id="born_7">2008</born>
+			<des id="des_7">提季提孩子的附属哈儿</des>
+			<dgs id="dgs_7">3</dgs>
+			<haerona id="haerona_7">С-2231-63Д</haerona>
+			<dgmhx id="dgmhx_7">2</dgmhx>
+			<die id="die_7">-1</die>
+			<info id="info_7">它是在[la]1[lb]提季提孩子[lc]的房间担任提季提孩子情绪欲望发泄器多年的哈儿，[br] 身受重伤但喜好被提季提孩子撕咬，减少了很多次提季提孩子攻击人的事件。[br] 其死亡后会分裂至少100个副本并继续等待提季提孩子的撕咬。[br] 一般小哈儿的尸体会被提季提孩子咬成球形。</info>
+		</haer>
+		<haer id="8">
+			<name id="name_8">炸（zhá）药</name>
+			<born id="born_8">2020</born>
+			<des id="des_8">以油炸方式制成的药品</des>
+			<dgs id="dgs_8">4</dgs>
+			<haerona id="haerona_8">О-4819-94С</haerona>
+			<dgmhx id="dgmhx_8">0</dgmhx>
+			<die id="die_8">-1</die>
+			<info id="info_8">这是以油炸方式制成的药品，在一次哈儿实验室举办的跳水比赛中，[br] 一名参赛的哈儿服用过多，入水时炸（zhá）毁游泳场，因此而发现。[br] 极度危险，且难以被销毁。</info>
+		</haer>
+		<haer id="9">
+			<name id="name_9">已体检对象</name>
+			<born id="born_9">2006</born>
+			<des id="des_9">体检合格后狂喜的哈儿</des>
+			<dgs id="dgs_9">5</dgs>
+			<haerona id="haerona_9">А-8139-21Б</haerona>
+			<dgmhx id="dgmhx_9">0</dgmhx>
+			<die id="die_9">-1</die>
+			<info id="info_9">这个哈儿体检合格后进入哈儿门，随后拿着显示体检合格体检单四处弹跳，[br] 导致哈儿们[lstr]集体跳动了一个下午[rstr]，最后被麻醉枪全部制服。[br] 它被归为危险哈儿的原因：喜欢在哈儿门处反复进出，动作娴熟，每天能进出[lstr]2000次以上[rstr]。[br] 这导致它应当被销毁，但现在它已经对所有麻醉剂产生了抵抗力，且目前未找到将其销毁的办法。</info>
+		</haer>
+		<haer id="10">
+			<name id="name_10">电话者</name>
+			<born id="born_10">2011</born>
+			<des id="des_10">电话不停的哈儿</des>
+			<dgs id="dgs_10">1</dgs>
+			<haerona id="haerona_10">Ф-9182-00Л</haerona>
+			<dgmhx id="dgmhx_10">0</dgmhx>
+			<die id="die_10">-1</die>
+			<info id="info_10">这个哈儿变哈的时候只有7岁，出于好奇进入。[br] 当时它刚刚接触电话，对电话机很感兴趣，[br] 于是它在这几年的时间里每天向外拨出至少300个电话，导致我们话费严重欠费，[br] 我们便把电话机拿走了，结果它联合[la]1[lb]提季提孩子[lc]咬人，[br] 最终我们将电话交还给它，但是是[lstr]内部电话，由计算机负责接电话，并播放不堪入耳的话语[rstr]。[br] 这导致目前它有[lstr]严重的暴力倾向[rstr]，已造成3人轻伤。</info>
+		</haer>
+		<haer id="11">
+			<name id="name_11">考生</name>
+			<born id="born_11">2007</born>
+			<des id="des_11">考试中的危险存在</des>
+			<dgs id="dgs_11">2</dgs>
+			<haerona id="haerona_11">О-4819-94С</haerona>
+			<dgmhx id="dgmhx_11">0</dgmhx>
+			<die id="die_11">-1</die>
+			<info id="info_11">它参加了一场考试，[lstr]在考试中被发现是哈儿（疑似进入考场前上楼梯时滑倒摔坏了脑子）[rstr]。[br] 它试图携带一台电子显微镜进入考场，击倒前来阻止的监考老师并强行开始做题，[br] 做题期间为证明线段AB=AC+OD，[br] 于是[lstr]精准作图[rstr]，[lstr]并在电子显微镜的帮助下数出AB、AC、OD有多少个分子[rstr]，[br] 被强制移出考场后补考，仍然不断地使用电子显微镜。[br] 由它的变哈，我们开发了高台坠落法以将正常人变为哈儿。</info>
+		</haer>
+		<haer id="12">
+			<name id="name_12">器官收集者</name>
+			<born id="born_12">2006</born>
+			<des id="des_12">仅次于提季提孩子的恶魔</des>
+			<dgs id="dgs_12">5</dgs>
+			<haerona id="haerona_12">Б-7418-65В</haerona>
+			<dgmhx id="dgmhx_12">0</dgmhx>
+			<die id="die_12">-1</die>
+			<info id="info_12">这是一个可怕的哈儿，有收集人体器官的癖好。[br] 常在公寓、居民小区出没。[br] 被收集器官的人都[lstr]当场死亡[rstr]。[br] 过于危险，其相关信息不会发布。</info>
+		</haer>
+		<haer id="13">
+			<name id="name_13">-000</name>
+			<born id="born_13">2018</born>
+			<des id="des_13">反复自尽的哈儿</des>
+			<dgs id="dgs_13">5</dgs>
+			<haerona id="haerona_13">К-2510-51Й</haerona>
+			<dgmhx id="dgmhx_13">0</dgmhx>
+			<die id="die_13">-1</die>
+			<info id="info_13">这个哈儿令人费解。[br] 关押它的地方有一堵墙，在特定时间会因为错误而消失。[br] 此时，-000常常从墙洞内逃逸，同时它的一个副本在远处自杀。[br] 它移动以观察自己副本的尸体，看见了自己副本的尸体后，将突然自杀。[br] 在自杀的十余秒前，墙的破洞内重新走出一个新的-000副本，已被恢复成上一个副本刚走出墙外的状态，[br] 新的-000副本看见了上一个副本自杀后，[br] 将如此循环，直到墙再次恢复。[br] 无法被销毁，且试图销毁它时操作者会随机消失，且无法被找到。更多信息不会发布。</info>
+		</haer>
+		<haer id="14">
+			<name id="name_14">炸（zhá）药人</name>
+			<born id="born_14">2000</born>
+			<des id="des_14">出生为炸（zhá）药的哈儿</des>
+			<dgs id="dgs_14">4</dgs>
+			<haerona id="haerona_14">О-4819-94С</haerona>
+			<dgmhx id="dgmhx_14">0</dgmhx>
+			<die id="die_14">-1</die>
+			<info id="info_14">它以炸（zhá）药为唯一活动能源，其副本被产生时会将自己炸（zhá）至死亡，并产生新的副本。[br] 极其危险，靠近时可能丧失生命。</info>
+		</haer>
+		<haer id="15">
+			<name id="name_15">自行分解者</name>
+			<born id="born_15">2018</born>
+			<des id="des_15">无法识别的对象</des>
+			<dgs id="dgs_15">5</dgs>
+			<haerona id="haerona_15">К-2510-51Й</haerona>
+			<dgmhx id="dgmhx_15">0</dgmhx>
+			<die id="die_15">-1</die>
+			<info id="info_15">它的一些功能与[la]13[lb]-000[lc]相仿。[br]它移动时，会将自己分解，并在另外位置重新复制一个自己的副本。[br]时常附带分解其附近的生物，被分解的生物无法再找到，可以定为已被杀死。[br]目前它已经将3名研究员分解，且无法被销毁，更多信息不会发布。</info>
+		</haer>
+		<haer id="16">
+			<name id="name_16">地理老师</name>
+			<born id="born_16">1991</born>
+			<des id="des_16">飘（piàp）行者</des>
+			<dgs id="dgs_16">0</dgs>
+			<haerona id="haerona_16">О-4819-94С</haerona>
+			<dgmhx id="dgmhx_16">0</dgmhx>
+			<die id="die_16">-1</die>
+			<info id="info_16">这是一位地理老师，在失踪十余天后突然再次出现在学校。[br] 自此以后，其每次上地理课，她都会带着学生和教室飘（piàp）走，下课又飘（piàp）回来。[br] 它禁止学生上课时呼吸，理由是空气稀薄。[br] 试图离开教室的学生会失去呼吸系统的所有器官，胸腹俱破，尸体将从空中坠落。[br] 其认为飘（piàp）走是为了让学生亲眼观察地形地貌，但是跟随它的学生在下课后都被发现已经死亡。[br] 其经常带着教学楼飘（piàp）走，只带着自己学生的尸体回来，[br] 其它的学生和剩余部分的教学楼，被永远留在了未知位置的空中。[br] 试图销毁它的人会在销毁的过程中突然死亡，其无法被销毁。</info>
+		</haer>
+		<haer id="17">
+			<name id="name_17">已扭曲矩形对象</name>
+			<born id="born_17">2007</born>
+			<des id="des_17">目击者均被吓到猝死</des>
+			<dgs id="dgs_17">5</dgs>
+			<haerona id="haerona_17">В-7851-08З</haerona>
+			<dgmhx id="dgmhx_17">0</dgmhx>
+			<die id="die_17">-1</die>
+			<info id="info_17">这是一个[la]7[lb]小哈儿[lc]的异常副本。它面目扭曲，使得看到它脸的人都永远失去了理智，变得精神失常，生活不能自理，最终猝死。[br] 它成为目击者终生的阴影，即使有幸恢复正常的精神状态，回想时也会再次被吓得疯狂以至于猝死。[br] 它双眼扭曲，鼻子弯曲，“酷似练了邪教”——这是一位目击者猝死前所描述的。[br] 它喜欢邪教，常常从楼上跳下去测试自己能否飞行，[br] 最终飞了数秒，挂在树上，使得大量路人死亡。[br] 其应当被销毁，但由于其生命力顽强，目前仍未有效的销毁方案。[br] 自从对其的6次销毁失败以后，其见到哈儿实验室工作人员就立刻说不堪入耳的粗话，[br] 目前已被强制隔离。[br] [flagoj]</info>
+		</haer>
+		<haer id="18">
+			<name id="name_18">怂亮仨</name>
+			<born id="born_18">-938</born>
+			<des id="des_18">炼钢党领导人</des>
+			<dgs id="dgs_18">1</dgs>
+			<haerona id="haerona_18">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_18">0</dgmhx>
+			<die id="die_18">-1</die>
+			<info id="info_18">这是一个学生。它曾经使用烟花爆竹和手枪攻击自己的身体特定部位以炼钢。[br] 其炼钢所需的物品有：军火、毒品和肾宝片。[br] 其炼成钢后组建炼钢党，试图独裁世界。[br] 其能够发电（特别是在使用了特定类型的蘑菇后），其发电速度能够替代2~3座核电厂，但发电时时常平移。[br] 其无法被销毁，但可以销毁一般的哈儿。[br] 如果将其与一个[la]1[lb]提季提孩子[lc]放在一个密闭房间内，10分钟后房间内会有大约2000个提季提孩子。[br] 其能够破坏哈儿门，为防止其造成更大骚动，我们将其安置在哈儿实验室能源部以发挥其才能。[br] 其目前为克里瓦斯特第二发电厂厂长兼技术指导。[br] 炼钢党相当一部分党员在哈儿实验室各地发电厂和冶炼厂工作，但它们时常在工作中突然集体平移。</info>
+		</haer>
+		<haer id="19">
+			<name id="name_19">炼钢党</name>
+			<born id="born_19">-938</born>
+			<des id="des_19">哈儿实验室能源部的主力军</des>
+			<dgs id="dgs_19">3</dgs>
+			<haerona id="haerona_19">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_19">1</dgmhx>
+			<die id="die_19">-1</die>
+			<info id="info_19">这是一个由[la]18[lb]怂亮仨[lc]组建的试图独裁世界的党派。其大量走私军火、毒品和肾宝片。[br] 其成员（除了怂亮仨）均可以用没收其军火的方式销毁。[br] 其成员可以破坏哈儿门，我们将其成员安置在哈儿实验室能源部。[br] 哈儿实验室部分发电厂和冶炼厂由炼钢党运作。[br] 炼钢党极其勤奋地发电和炼钢，但时常在发电时突然集体平移。[br] 其党员吵架的流程为：拿出面包，砸在地上（如果吵架极其激烈可能会踩一脚），[br] 然后拿起来吃，边吃边骂，吃完即骂完，如果对方仍在骂，则此党员须再拿出面包，重复上述流程后继续吵架。[br]直到没有面包，就砸包里的其他东西，直到没有东西为止，随后将包剪下继续争吵。[br] 最终如果吵架持续时间过长，则双方将一丝不挂，而地上全是二人的衣服和物品，均被砸在地上（可能还被踩了一脚）。[br] 由于其炼钢语过于复杂，二人吵架时时常听不清对方，自己也时常说不清楚，因此一般吵架不会持续太久。</info>
+		</haer>
+		<haer id="20">
+			<name id="name_20">怂亮仨的老师</name>
+			<born id="born_20">1953</born>
+			<des id="des_20">炼钢党的始祖</des>
+			<dgs id="dgs_20">2</dgs>
+			<haerona id="haerona_20">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_20">0</dgmhx>
+			<die id="die_20">-1</die>
+			<info id="info_20">这是炼钢党领导人[la]18[lb]怂亮仨[lc]的老师，[br] 教会了怂亮仨如何炼钢。[br] 但是它自己未炼成钢，而且将自己的身体特定部位磨平了，[br] 于是怂亮仨赠送给它许多自己炼的钢。[br] 其协助怂亮仨炼钢，有时对着怂亮仨发射导弹以满足怂亮仨炼钢的需求。</info>
+		</haer>
+		<haer id="21">
+			<name id="name_21">詹唱见</name>
+			<born id="born_21">2007</born>
+			<des id="des_21">炼钢党的受害者</des>
+			<dgs id="dgs_21">5</dgs>
+			<haerona id="haerona_21">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_21">0</dgmhx>
+			<die id="die_21">-1</die>
+			<info id="info_21">这是一位[la]19[lb]炼钢党[lc]的受害者，因吸毒过多被[lstrw]Л-9218-73З[rstr]同志鉴定为哈儿。[br] 在ШИЯЧ私藏毒品，时常在非工作时间偷偷吸毒。[br] 大喊大叫“我要炼钢”，对柜子和抽屉很感兴趣。[br] 其尤其喜欢被销毁，但其无法被销毁。[br] [flagoj]</info>
+		</haer>
+		<haer id="22">
+			<name id="name_22">腐蚀者</name>
+			<born id="born_22">2007</born>
+			<des id="des_22">破坏力极强的哈儿</des>
+			<dgs id="dgs_22">5</dgs>
+			<haerona id="haerona_22">В-7851-08З</haerona>
+			<dgmhx id="dgmhx_22">0</dgmhx>
+			<die id="die_22">-1</die>
+			<info id="info_22">这是一个破坏力极强的哈儿，完全没有应激性。[br] 我们教导它：见到刀向你刺来时应该躲闪，而不是用胸口迎上去。[br] 但它可以腐蚀周边一切物体。[br] 这使得它时常穿墙而过，似乎毫无阻力，而墙体直接坍塌。[br] 其对建筑物的破坏力极强，因此目前它是唯一一个没有住处的哈儿。</info>
+		</haer>
+		<haer id="23">
+			<name id="name_23">对岸对象</name>
+			<born id="born_23">2001</born>
+			<des id="des_23">危险的可自行移动物</des>
+			<dgs id="dgs_23">4</dgs>
+			<haerona id="haerona_23">Л-1917-11С</haerona>
+			<dgmhx id="dgmhx_23">0</dgmhx>
+			<die id="die_23">-1</die>
+			<info id="info_23">这是一种极度危险的哈儿。常出现于[Uns]河流域。[br] 当可见范围内河道仅一侧有人时，该哈儿会出现在河道对面并随人移动（如果有一群人则会随着最后一个人移动）。[br] 如果人过河，则该哈儿会突然出现在河的对岸。[br] 如果河道可视范围内两侧均有人，则该哈儿会自行销毁并将河道两侧的人变为该哈儿的副本。[br] 经过安全的检测，发现该哈儿可以随人极快速地平移，疑似[la]19[lb]炼钢党[lc]受害者。[br] 其时常在跟随人移动时吸食炼钢党提供的毒品并高唱炼钢党内火爆的歌曲。</info>
+		</haer>
+		<haer id="24">
+			<name id="name_24">拎几</name>
+			<born id="born_24">2007</born>
+			<des id="des_24">怂亮仨最亲密的朋友</des>
+			<dgs id="dgs_24">2</dgs>
+			<haerona id="haerona_24">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_24">0</dgmhx>
+			<die id="die_24">-1</die>
+			<info id="info_24">该哈儿的属性均来自目击者描述。其疑似为[la]18[lb]怂亮仨[lc]的朋友兼同事，[br] 时常共同发表演讲。怂亮仨与其常常共同炼钢，并共同领导[la]19[lb]炼钢党[lc]。[br] 由于未获取到该哈儿的实体（被存放于怂亮仨的家中），因此其大部分性质未知。</info>
+		</haer>
+		<haer id="25">
+			<name id="name_25">舞者集团</name>
+			<born id="born_25">2021</born>
+			<des id="des_25">可怕的未知歌舞团</des>
+			<dgs id="dgs_25">0</dgs>
+			<haerona id="haerona_25">Е-5407-61Б</haerona>
+			<dgmhx id="dgmhx_25">1</dgmhx>
+			<die id="die_25">-1</die>
+			<info id="info_25">这是一个未知的歌舞团，没有任何乐器。[br] 其在ШИЯЧ中四处散布（尤其是ШИЯЧ-2019-17和ШИЯЧ-2019-18），对特定目标进行表演。[br] 哈儿实验室的一位常驻ШИЯЧ的哈儿实验室赫尔自治州分部危险哈儿管制及实验区的同志[br] （哈儿实验室内部编制号码：[lstrw]Е-5407-61Б[rstr]）反复遭遇此歌舞团的演出，[br] 因此被任命为此哈儿团的负责人。[br]据[lstrw]Е-5407-61Б[rstr]的描述，当此哈儿团发现其行踪后，[br] 尾随并集体高唱“博博, 博博, I love you! 博博, 博博, I fxxk you!”。[br] 目前，[lstrw]Е-5407-61Б[rstr]同志要求增派人员以进行研究，此要求已得到批准，增派了1人。</info>
+		</haer>
+		<haer id="26">
+			<name id="name_26">吸烟者</name>
+			<born id="born_26">1983</born>
+			<des id="des_26">意志力惊人</des>
+			<dgs id="dgs_26">0</dgs>
+			<haerona id="haerona_26">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_26">0</dgmhx>
+			<die id="die_26">-1</die>
+			<info id="info_26">这是一个[la]19[lb]炼钢党[lc]的高级领导人，与[la]18[lb]怂亮仨[lc]交情颇深。[br] 时常将自己身体的一部分取下来，点燃并猛吸一口。[br] 时常不顾自己的身体健康，疯狂吸烟，身体衰弱，但意志力顽强，甘于忍受被燃烧的痛苦。</info>
+		</haer>
+		<haer id="27">
+			<name id="name_27">革新派狭义牛马型反联通状方脑类伪弘毅主义哲学家</name>
+			<born id="born_27">2007</born>
+			<des id="des_27">无礼而自负的疯子</des>
+			<dgs id="dgs_27">5</dgs>
+			<haerona id="haerona_27">Г-6054-18К</haerona>
+			<dgmhx id="dgmhx_27">0</dgmhx>
+			<die id="die_27">-1</die>
+			<info id="info_27">这是一个令人无法忍受的哈儿，来自[la]17[lb]已扭曲矩形对象[lc]被销毁失败后产生的可以直视的副本，应当被销毁但生命力顽强，[br] 我们切下了它的部分重要器官，但它第二天就自愈了，并且愈发地对哈儿实验室工作人员进行粗话侮辱。[br] 虽然被[la]1[lb]提季提孩子[lc]撕咬了多于908次，但依然自愈，[br] 素有“欠揍型不可繁殖或死亡的新型[la]7[lb]小哈儿[lc]”的美誉。[br] 然而极其傲慢，粗鲁对待其它哈儿，并对哈儿实验室工作人员进行言语上的侮辱。[br] 由于其过于令人无法忍受，且其无研究价值，又无法被销毁，经过相关同志的研究，[br] 自2020年起[lstrw]其体重每年均会被计入《哈儿实验室年度环保报告》中全年垃圾总质量（单位为：吨/t）的数值[rstr]。</info>
+		</haer>
+		<haer id="28">
+			<name id="name_28">卫生间杀手</name>
+			<born id="born_28">2007</born>
+			<des id="des_28">使得其周围卫生间充满尸体</des>
+			<dgs id="dgs_28">0</dgs>
+			<haerona id="haerona_28">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_28">0</dgmhx>
+			<die id="die_28">-1</die>
+			<info id="info_28">这是一个可怕的哈儿，游走于ШИЯЧ的卫生间，[br] 对正在使用男厕小便池的人的身体特定部位实施攻击。[br] 这使得正在如厕的人当场猝死。[br] 极其危险，已经使得至少6个厕所被永久废弃。[br] 其实施上述行为可能是其进入哈儿门前在寻找厕所导致的。</info>
+		</haer>
+		<haer id="29">
+			<name id="name_29">弹琴者</name>
+			<born id="born_29">1998</born>
+			<des id="des_29">力大无穷的哈儿</des>
+			<dgs id="dgs_29">3</dgs>
+			<haerona id="haerona_29">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_29">0</dgmhx>
+			<die id="die_29">-1</die>
+			<info id="info_29">这是一个[la]19[lb]炼钢党[lc]的受害者，喜欢抱着任何其可以拿到的物品弹琴。[br] 无论其抱着的东西是什么，都可以发出在炼钢党员听起来很“优雅”的音乐。[br] 其兴奋时可以将大树连根拔起以开始弹奏，甚至可以将整个建筑物抬起，[br] 其是目前少数几个能够举起[la]18[lb]怂亮仨[lc]炼的钢的哈儿。</info>
+		</haer>
+		<haer id="30">
+			<name id="name_30">排球对象</name>
+			<born id="born_30">2007</born>
+			<des id="des_30">举着排球的哈儿贩子</des>
+			<dgs id="dgs_30">0</dgs>
+			<haerona id="haerona_30">Е-5407-61Б</haerona>
+			<dgmhx id="dgmhx_30">0</dgmhx>
+			<die id="die_30">-1</die>
+			<info id="info_30">这是一个喜好排球的哈儿，时常命令他人参加其所谓的“排球比赛”，[br] 拒绝者将被其拖走，目前无反抗成功者，因其力气极大。[br] 其于2021年10月13日试图拐卖3个持枪的[la]1[lb]提季提孩子[lc]，这使得其失踪，3日后被发现于60公里外，身受重伤，严重失血，[br] 部分身体器官丢失，并被提季提孩子没收了排球。[br] 其生命力顽强，因此很快恢复。[br] 但其总是能通过不明手段获取排球并继续拐卖哈儿实验室工作人员和哈儿。[br] 被其拐卖者均精神失常，恢复后完全无法回想被拐卖期间的遭遇。[br] 此哈儿极度危险，已被强制与[lstr]10个曾持枪对人射击使93人丢失身体重要器官的提季提孩子[rstr]共同关押。</info>
+		</haer>
+		<haer id="31">
+			<name id="name_31">车内异常行为对象</name>
+			<born id="born_31">2007</born>
+			<des id="des_31">ШИЯЧ最激情的哈儿</des>
+			<dgs id="dgs_31">0</dgs>
+			<haerona id="haerona_31">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_31">0</dgmhx>
+			<die id="die_31">-1</die>
+			<info id="info_31">这是一个喜好激情的哈儿，常在ШИЯЧ例行运作时于ШИЯЧ-2019-17室内实施危险行为。[br] 它时常是自己的特定身体器官凸起，并顶起它的服饰，以此为乐。[br] 它用尽全力使身体特定器官更加坚硬，并时常用手配合上述行为。[br] 我们告诫它：“不要这样，否则你会永久失去使用此器官的权利。”但它充耳不闻。[br] 目前已经从[la]19[lb]炼钢党[lc]偷盗了60余个振动器以满足自己的奇特癖好。[br] 由于其被发现时在一辆破旧的轿车内行使上述行为，由此得名。</info>
+		</haer>
+		<haer id="32">
+			<name id="name_32">关门者</name>
+			<born id="born_32">2007</born>
+			<des id="des_32">炼钢党人最痛恨的哈儿之一</des>
+			<dgs id="dgs_32">3</dgs>
+			<haerona id="haerona_32">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_32">0</dgmhx>
+			<die id="die_32">-1</die>
+			<info id="info_32">这是一个极度自私的哈儿，霸占了[la]19[lb]炼钢党[lc]专用炼钢室并独自享受这一整间炼钢室。[br] 一旦其离开炼钢室，就立即将其锁上，不许他人入内。[br] 但其智商过低，因此总是忘记把后门从里面锁上，[br] 这使得炼钢党人尚存一些使用此室炼钢的机会。[br] 炼钢党人与其斗争至今。</info>
+		</haer>
+		<haer id="33">
+			<name id="name_33">雄性圆周运动物体</name>
+			<born id="born_33">2007</born>
+			<des id="des_33">少数能确定性别的哈儿</des>
+			<dgs id="dgs_33">1</dgs>
+			<haerona id="haerona_33">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_33">0</dgmhx>
+			<die id="die_33">-1</die>
+			<info id="info_33">这是一个能够流利使用炼钢语的哈儿，经常使用这门语言流利地辱骂他人。[br] 喜好在狂风暴雨中骑着一匹几近残废的马[lstr]（此哈儿每日切割其特定部位所致）[rstr]并对路过的人射箭，[br]通常射不准。目前我们未侦测到它射中过非气态物质。[br] 它自称自己是上帝，傲慢自负。[br] 每当有人说它是哈儿，它就会反驳此人才是哈儿，并说这是“相对论”的结论。[br] 其钢材产量极高，已被[la]18[lb]怂亮仨[lc]亲自授予了“炼钢机器”的光荣称号。</info>
+		</haer>
+		<haer id="34">
+			<name id="name_34">春季积雨云对象</name>
+			<born id="born_34">1976</born>
+			<des id="des_34">无时无刻不越权的哈儿</des>
+			<dgs id="dgs_34">5</dgs>
+			<haerona id="haerona_34">В-7851-08З</haerona>
+			<dgmhx id="dgmhx_34">0</dgmhx>
+			<die id="die_34">-1</die>
+			<info id="info_34">这是一个喜欢越权管理他人的哈儿。[br] 它喜好站在树冠上朗诵哈儿传统文学作品（例如：《效前锇檄驮》、[las]https://hssrgov.github.io/2021/10/24/%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5-%E7%82%BC%E9%92%A2%E5%85%9A%E7%82%B8%E5%B9%B3%E5%B1%B1%E5%A4%B4/[lb]《南阉耸山遇酸雨有感》[lc]等）。[br] 它强占了ШИЯЧ-2019-19并禁止ШИЯЧ-2019-17和ШИЯЧ-2019-18的人员靠近，否则会遭到其攻击。[br] ШИЯЧ的人员都很愤怒，但无法与它抗衡。[br] 过于危险，但目前无法被销毁，正在研究销毁它的方法。</info>
+		</haer>
+		<haer id="35">
+			<name id="name_35">本源党</name>
+			<born id="born_35">2020</born>
+			<des id="des_35">法西斯主义危险哈儿团</des>
+			<dgs id="dgs_35">9</dgs>
+			<haerona id="haerona_35">ОпенГ-ккмб</haerona>
+			<dgmhx id="dgmhx_35">1</dgmhx>
+			<die id="die_35">2022</die>
+			<info id="info_35">这是一个喜欢马桶刷子的哈儿团，由40余个难以被销毁的危险哈儿组成。[br] 本源党中央委员会主席是一个[lstr]马桶刷子[rstr]，也是每个本源党员为之狂热的信仰。[br] 据一位不愿公开身份的反本源党联合战线中央执行委员会候补委员透露，[br] 本源党领导人是一个名为“Лу Цзяюань”的危险哈儿，[br] 它是本源党的实际掌权者，独裁着每个本源党员的思想、价值观和行为。[br] 本源党对异己者实施残酷的打压，对其施加酷刑并实施精神折磨，称为“本源惩戒”。[br] 其荒谬的宗旨是所谓[lstr]“从小流，不从大流”[rstr]，自以为“不与世俗同流合污”，[br] 此党为了对世界现行民主制度进行螳臂当车般的“摧毁”，对[la]19[lb]炼钢党[lc]发动进攻，试图一举消灭[la]19[lb]炼钢党[lc]，[br] 在进攻失败后放出炼钢党为其附属党派的谣言。[br] 其成员沉浸在自己的幻想中无法自拔，认为自己拥有40余个危险哈儿就能征服世界，傲慢而自负以致令人不适，[br]哈儿实验室于2021年10月决定，对本源党实施销毁，[br] 且自2020年起至其被完全剿灭前[lstr]其总体重每年均会被计入《哈儿实验室年度环保报告》中全年垃圾总质量（单位为：吨/t）的数值[rstr]。[br]2022年5月，哈儿实验室宣布该哈儿团已停止活动，被视为已灭亡。</info>
+		</haer>
+		<haer id="36">
+			<name id="name_36">孙子</name>
+			<born id="born_36">1978</born>
+			<des id="des_36">大喊大叫的暴力危险哈儿</des>
+			<dgs id="dgs_36">3</dgs>
+			<haerona id="haerona_36">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_36">0</dgmhx>
+			<die id="die_36">-1</die>
+			<info id="info_36">这是一个喜欢大喊大叫的哈儿，在ШИЯЧ于2021年10月27日下午的一次例行测试中在窗外大喊大叫而被鉴定为哈儿。[br] 它具有[lstrw]严重的暴力倾向[rstr]，一言不合即对他人踢打，通常致残或致死。[br] 时常“嘹骂咆抓，空谷传响，墙倾楫摧，虎啸猿啼，哀转久绝”（一位当事人的描述），使得ШИЯЧ当日的测试完全失败。[br] 其过于危险，已被紧急隔离以防止更多故意伤害致残致死的事故。</info>
+		</haer>
+		<haer id="37">
+			<name id="name_37">空中悬浮对象</name>
+			<born id="born_37">2007</born>
+			<des id="des_37">试图违背物理定律的哈儿</des>
+			<dgs id="dgs_37">5</dgs>
+			<haerona id="haerona_37">Е-5407-61Б</haerona>
+			<dgmhx id="dgmhx_37">0</dgmhx>
+			<die id="die_37">-1</die>
+			<info id="info_37">这是一个喜欢悬浮在低空的哈儿，是[las]https://hssrgov.github.io/2021/10/24/%E7%B4%A7%E6%80%A5%E9%80%9A%E7%9F%A5-%E7%82%BC%E9%92%A2%E5%85%9A%E7%82%B8%E5%B9%B3%E5%B1%B1%E5%A4%B4/[lb]2021年10月24日阉耸山战役[lc]中战败的[la]17[lb]已扭曲矩形对象[lc]受伤后分裂出的副本。[br] 与已扭曲矩形对象和[la]27[lb]革新派狭义牛马型反联通状方脑类伪弘毅主义哲学家[lc]一样无法被销毁且令人不适。[br] 喜好悬浮在空中，如果有人试图将其降至地面则会与其一起悬浮在空中。[br] 由于其时常站在200米以上的空中，目前我们无法得知其大多数性状。[br] 其少数时候能站在3000米以上的空中。</info>
+		</haer>
+		<haer id="38">
+			<name id="name_38">守门员</name>
+			<born id="born_38">1994</born>
+			<des id="des_38">负责开关门的哈儿</des>
+			<dgs id="dgs_38">4</dgs>
+			<haerona id="haerona_38">К-2510-51Й</haerona>
+			<dgmhx id="dgmhx_38">0</dgmhx>
+			<die id="die_38">-1</die>
+			<info id="info_38">这是一个功能单一的哈儿，仅有开关门的功能，被授予“守门员”的美称。[br] 其时常站在门边，当检测到附近有人时会自动开门，否则会自动关门。[br] 其ХИРГ值过低，目前其与最粗劣的机器没有过多区别。[br] 当其开门时，其会高呼意义不明的口号。这是它唯一会说的话。</info>
+		</haer>
+		<haer id="39">
+			<name id="name_39">门神</name>
+			<born id="born_39">2007</born>
+			<des id="des_39">负责问好的哈儿团</des>
+			<dgs id="dgs_39">0</dgs>
+			<haerona id="haerona_39">Е-5407-61Б</haerona>
+			<dgmhx id="dgmhx_39">1</dgmhx>
+			<die id="die_39">-1</die>
+			<info id="info_39">这是一个机械性的的哈儿团，共2个哈儿，常给经过楼梯口的人说“晚上好”，被授予“门神”的美称。[br] 此二哈儿时常分站在楼梯口两侧，当检测到附近有人时会自动说“晚上好”。[br] 其中一个哈儿认为自己的行为很光荣，并傲慢自负地认为自己无法被超越，并恶劣地辱骂批评者。[br] 这个哈儿又被授予“自恋门神”称号。[br] 此哈儿团同时又是危险哈儿团[la]0[lb]辛格勒联盟[lc]的一部分。</info>
+		</haer>
+		<haer id="40">
+			<name id="name_40">器官凸起对象</name>
+			<born id="born_40">2007</born>
+			<des id="des_40">平躺并凸起的哈儿</des>
+			<dgs id="dgs_40">4</dgs>
+			<haerona id="haerona_40">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_40">0</dgmhx>
+			<die id="die_40">-1</die>
+			<info id="info_40">这是一个喜好平躺在多张连续排列的桌子上的哈儿，并常常在平躺时将身体特定部位凸起。[br] 其与2021年6月被发现平躺在ШИЯЧ-2019-1819Б中，身上摆满椅子，特定部位凸起，[br] 我们无法理解它是如何做到上述动作的，但上述动作[lstrw]极其危险，严禁模仿[rstr]。[br] 其行动缓慢而诡异，时常令路人惊恐而无所适从，已被特殊隔离。</info>
+		</haer>
+		<haer id="41">
+			<name id="name_41">老者</name>
+			<born id="born_41">1858</born>
+			<des id="des_41">不死的炼钢老哈儿</des>
+			<dgs id="dgs_41">4</dgs>
+			<haerona id="haerona_41">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_41">0</dgmhx>
+			<die id="die_41">-1</die>
+			<info id="info_41">这是一个不会死亡的老哈儿，现存放于炼钢党中央艺术博物馆西二楼213室，是[la]19[lb]炼钢党[lc]的受害者。[br] 它常年像[la]26[lb]吸烟者[lc]一样破坏自己的肢体，应当在71岁时离世。[br] 但是它不甘心，于是开始发电和平移，[br] 这使得其一直半死不活地倒插在地上，每晚有2小时的平移时间。[br] 它的家人放弃了它，并为它树立了墓碑，而它则在展馆内不停地发电和炼钢。[br] 其于1990年6月14日停止过一次发电，但马上又开始像吸烟者一样毁坏自己，[br] 最终为了防止自己死亡，停止发电5分钟后被迫再次开始。</info>
+		</haer>
+		<haer id="42">
+			<name id="name_42">捧金者</name>
+			<born id="born_42">2007</born>
+			<des id="des_42">手捧黄金的可怕魔鬼</des>
+			<dgs id="dgs_42">3</dgs>
+			<haerona id="haerona_42">В-2390-19А</haerona>
+			<dgmhx id="dgmhx_42">0</dgmhx>
+			<die id="die_42">-1</die>
+			<info id="info_42">这是一个热爱黄金的哈儿，于2018年7月23日在一次事故中被发现，本名赵闫景（音译，Чжао Яньцзин）。[br] 2018年7月23日11时许，中华人民共和国内蒙古自治区呼和浩特市附近的希拉穆仁草原的公路上，[br] 有数辆大巴车载着百余名来自中华人民共和国四川省成都市的学生从事夏令营活动。[br] 在某一辆车过桥时，坐在车倒数第二排左靠窗位置的年轻的哈儿实验室青年成员[lstrw]В-2390-19А[rstr]同志（现哈儿实验室青年工作团副主席）闻到了一股异味。[br] 但是他以为是马的粪便而没有在意。后来，他发现自己右侧的赵闫景[lstr]在车上生产黄金[rstr]，[br] 并用手将大量黄金放在座位上，地板上全是有刺激气味的液体。[br] 赵闫景先生还将黄金送给了后座的周星耀（音译，Чжоу Синъяо）先生的裤腿，这使得周星耀先生当晚做了噩梦。[br] 赵闫景先生[lstr]在草原公路上一个偏僻的加油站厕所内洗澡[rstr]，[lstr]出来时没有穿内裤[rstr]。[br] 其钱包因沾满黄金被碰到了黄金的一位工作人员丢弃。[br] 司机[lstr]丢弃了赵闫景先生的座位[rstr]并丢弃了[lstrw]В-2390-19А[rstr]同志的座套（被黄金污染了）。[br] 刺鼻的气味贯穿整辆车，使得车上师生四散而逃。[br] 赵闫景先生最终于2018年8月1日被正式鉴定为哈儿，于2021年11月10日被正式鉴定为危险哈儿。[br] 其代号暂定为“捧金者”。</info>
+		</haer>
+		<haer id="43">
+			<name id="name_43">唾液喷洒对象</name>
+			<born id="born_43">2006</born>
+			<des id="des_43">可怕的剧毒物体</des>
+			<dgs id="dgs_43">5</dgs>
+			<haerona id="haerona_43">В-2390-19А</haerona>
+			<dgmhx id="dgmhx_43">0</dgmhx>
+			<die id="die_43">-1</die>
+			<info id="info_43">这是一个喜欢以唾液攻击他人的哈儿，并攻击了[lstrw]В-2390-19А[rstr]同志。[br] 喜欢抢夺他人的物品并微笑着尖叫，由此被鉴定为哈儿。[br] 其思想极其糟糕，被肃反委员会多次警告无果后差点被销毁。[br] 由于其时常进出哈儿门以寻求电击的快感，现已失去其全部功能，[br] 只能像一座雕像一样保持一个姿势。[br] 其无法被销毁，因为其失去了死亡的能力。</info>
+		</haer>
+		<haer id="44">
+			<name id="name_44">自我型小哈儿</name>
+			<born id="born_44">2007</born>
+			<des id="des_44">神奇的自恋狂</des>
+			<dgs id="dgs_44">0</dgs>
+			<haerona id="haerona_44">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_44">0</dgmhx>
+			<die id="die_44">-1</die>
+			<info id="info_44">这是一个[la]7[lb]小哈儿[lc]的异常副本，变得极其自恋而狂妄自大。[br] 认为自己就是一切，并不许他人指责或模仿其行为，[br] 并认为这是它在保护自己的“专利”、“版权”。[br] 时常看不起他人，并实施极度危险的攻击活动，已被特殊隔离。</info>
+		</haer>
+		<haer id="45">
+			<name id="name_45">可食用狂热哈儿</name>
+			<born id="born_45">1999</born>
+			<des id="des_45">诡异的狂热哈儿团</des>
+			<dgs id="dgs_45">5</dgs>
+			<haerona id="haerona_45">Г-6054-18К</haerona>
+			<dgmhx id="dgmhx_45">1</dgmhx>
+			<die id="die_45">-1</die>
+			<info id="info_45">这是一个极度危险的哈儿团，为了一个素不相识的人而狂热。[br] 时常烧杀抢掠、无所不为，然后将其非法所得交给这个素不相识的人。[br] 极度狂热，令人震惊而恐惧，部分成员已被成功隔离，[br] 但截至2021年11月15日，仍有至少2万此类哈儿潜逃于世界各地。[br] 其已被下达全部销毁令，如果您在街上看见此类哈儿，请立即远离并联系我们。[br] 为了您和您的家人的生命安全，[lstr]严禁私自尝试销毁哈儿！！[rstr]</info>
+		</haer>
+		<haer id="46">
+			<name id="name_46">神仙</name>
+			<born id="born_46">1923</born>
+			<des id="des_46">疯狂的老者</des>
+			<dgs id="dgs_46">0</dgs>
+			<haerona id="haerona_46">Е-5407-61Б</haerona>
+			<dgmhx id="dgmhx_46">0</dgmhx>
+			<die id="die_46">-1</die>
+			<info id="info_46">这是一个思想神奇的哈儿，自认为是神仙，并不许他人提出异议。[br] 只要他人稍不合它意，就立刻开始大叫，[br] 并说：“我死后不保佑你们了！”[br] 试图练习各种邪教以“升仙”，数次受伤，但均未死亡（疑似不可销毁）。[br] 由于其令人不适，现已被单独隔离。</info>
+		</haer>
+		<haer id="47">
+			<name id="name_47">头部飘行对象</name>
+			<born id="born_47">1999</born>
+			<des id="des_47">诡异的脑袋</des>
+			<dgs id="dgs_47">3</dgs>
+			<haerona id="haerona_47">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_47">0</dgmhx>
+			<die id="die_47">-1</die>
+			<info id="info_47">这是一个头身分离的哈儿，是[la]17[lb]已扭曲矩形对象[lc]的副本，其为什么还能活着令人不解。[br] 其头颅悬浮在其颈上方约0.1m处，面部始终朝向天空。[br] 其行走基本依靠平移，因其腿脚不利索。[br] 我们无法想象它为什么还有生命，以及为什么它的头颅可以悬空。[br] 其思想、心智极其异常，时常令人不安。</info>
+		</haer>
+		<haer id="48">
+			<name id="name_48">灯内人</name>
+			<born id="born_48">1983</born>
+			<des id="des_48">拥有奇异功能的教师</des>
+			<dgs id="dgs_48">0</dgs>
+			<haerona id="haerona_48">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_48">0</dgmhx>
+			<die id="die_48">-1</die>
+			<info id="info_48">这是一个可怕的教师，每次上课从灯内洒出以进入教室。[br] 一般上课时会携带手枪，并枪击未交作业的学生。[br] 每次上课把学生带入灯内，并高呼：“这是我给你们的仁慈！”[br] 有时学生关灯以将其困在灯内，但其立刻发电以补救。[br] 学生做练习题时时常在灯内游走以监督学生，开小差的学生会被枪击，[br] 但是在一段时间后，学生们开始喜爱被枪击的感觉。[br] 其已被鉴定为无法被销毁，并被单独隔离。[br] 但其时常发电并钻入灯内逃跑。</info>
+		</haer>
+		<haer id="49">
+			<name id="name_49">剃刀对象</name>
+			<born id="born_49">2007</born>
+			<des id="des_49">顽强的自残者</des>
+			<dgs id="dgs_49">3</dgs>
+			<haerona id="haerona_49">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_49">0</dgmhx>
+			<die id="die_49">-1</die>
+			<info id="info_49">这是一个[la]7[lb]小哈儿[lc]的异常副本，喜好自残。[br] 时常手持利刃，自上而下地刮自己的身体特定部位直至其完全被毁坏。[br] 其生命力顽强，每次毁坏后其身体特定部位均会在1小时内恢复原状，[br] 使得其继续自残。其被单独隔离并被没收了利刃，[br] 但其有时与[la]19[lb]炼钢党[lc]串通以购买炼钢党员炼的钢制成的利刃。</info>
+		</haer>
+		<haer id="50">
+			<name id="name_50">略感淤怂</name>
+			<born id="born_50">2007</born>
+			<des id="des_50">自我安慰者</des>
+			<dgs id="dgs_50">5</dgs>
+			<haerona id="haerona_50">В-2390-19А</haerona>
+			<dgmhx id="dgmhx_50">0</dgmhx>
+			<die id="die_50">-1</die>
+			<info id="info_50">这是一个试图挟持[lstrw]ОпенГ-ккмб[rstr]同志并政变而成为[la]19[lb]炼钢党[lc]中央执行委员会第一书记（现任：[la]18[lb]怂亮仨[lc]）的哈儿。[br] 因毒瘾发作试图攻击[lstrw]ОпенГ-ккмб[rstr]同志而被下达销毁令，但反复销毁均未成功。[br] 其认为[lstrw]ОпенГ-ккмб[rstr]同志是“钢-1'”，并试图将其挟持为傀儡以发动政变成为炼钢党的领导人。[br] 其平日里喜好自我安慰并强迫他人自我安慰，认为其视线中的所有人都在自我安慰。[br] 其为了炼钢和自我安慰而疯狂补肾，使得我们的医用药品存储库被它洗劫一空。[br] 极其危险，已被单独隔离，并对其实施进一步研究。</info>
+		</haer>
+		<haer id="51">
+			<name id="name_51">炼钢树</name>
+			<born id="born_51">2021</born>
+			<des id="des_51">可怕的植物</des>
+			<dgs id="dgs_51">4</dgs>
+			<haerona id="haerona_51">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_51">2</dgmhx>
+			<die id="die_51">-1</die>
+			<info id="info_51">这是一棵树，深受[la]19[lb]炼钢党[lc]的毒害。[br] 它时常持枪对自己的树干射击以炼钢，并要求路人为其装弹，[br] 如果路人拒绝就会被抽打，常常致人死亡。[br] 时常发电平移，常常冲进他人住处造成死亡事故，使得附近居民苦不堪言。[br] 其钢产量惊人，与2021年10月31日被炼钢党授予“炼钢机器”称号。</info>
+		</haer>
+		<haer id="52">
+			<name id="name_52">东部杨树对象</name>
+			<born id="born_52">1976</born>
+			<des id="des_52">极具黑社会性质的哈儿</des>
+			<dgs id="dgs_52">0</dgs>
+			<haerona id="haerona_52">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_52">0</dgmhx>
+			<die id="die_52">-1</die>
+			<info id="info_52">这是一个喜好宣扬哈儿抽象艺术的哈儿，性格暴躁。[br] 经常强迫他人聆听其“美术课”，反抗者的母亲将被其“社会上的兄弟给办了”，[br] 而反抗者本人则常常失踪，一般无法被找到。[br] 其时常宣传反共言论，从“美术课”上含沙射影地表达，渗透听众们的思想。[br] 极其危险，已被单独隔离，不设定预期停止隔离日期。</info>
+		</haer>
+		<haer id="53">
+			<name id="name_53">关门者之母</name>
+			<born id="born_53">1965</born>
+			<des id="des_53">极度自私的越权者</des>
+			<dgs id="dgs_53">0</dgs>
+			<haerona id="haerona_53">Л-8233-67К</haerona>
+			<dgmhx id="dgmhx_53">0</dgmhx>
+			<die id="die_53">-1</die>
+			<info id="info_53">这是一个极度自私的哈儿，指使[la]32[lb]关门者[lc]封锁了[la]19[lb]炼钢党[lc]会议室并独占其中。[br] 在炼钢室门锁损坏后，其直接坐于室内，禁止外人入内。[br] 炼钢党人极其痛恨，但炼钢党中央执行委员会对此没有反应。[br] 虽然炼钢党人找到了新的会议室，但其仍然希望将此哈儿开除出炼钢党。</info>
+		</haer>
+		<haer id="54">
+			<name id="name_54">均匀者</name>
+			<born id="born_54">2007</born>
+			<des id="des_54">疯狂的猴子</des>
+			<dgs id="dgs_54">4</dgs>
+			<haerona id="haerona_54">В-2390-19А</haerona>
+			<dgmhx id="dgmhx_54">0</dgmhx>
+			<die id="die_54">-1</die>
+			<info id="info_54">这是一个如猴子一般的疯狂哈儿，喜好攻击人类。[br] 我们曾试图将其锁在房间内，但其疯狂砸门，产生大量噪音。[br] 其面目猥琐，令人惊恐和恶心，[br] 在2021年8月13日，其面目使一名老人心脏病而死。[br] 其喜好尖叫和用粗话骂人，我们想尽办法也无法使其保持安静，[br] 于是于2021年11月20日用一个巨大的身体特定部位（来自一个于当日被销毁的普通哈儿）的皮将其声带替换，使其丧失发声功能。[br] 目前其因此极度暴躁，疯狂打砸，试图杀人，已被特殊隔离。</info>
+		</haer>
+		<haer id="55">
+			<name id="name_55">大哈儿</name>
+			<born id="born_55">2008</born>
+			<des id="des_55">小哈儿的变种</des>
+			<dgs id="dgs_55">2</dgs>
+			<haerona id="haerona_55">З-2744-27Й</haerona>
+			<dgmhx id="dgmhx_55">2</dgmhx>
+			<die id="die_55">-1</die>
+			<info id="info_55">这是一个[la]7[lb]小哈儿[lc]的变种，其绝大多数性质与小哈儿无异。[br] 其与小哈儿的最大区别在于其身体特定器官极大，[br] 大约有20m长，需要10个[la]1[lb]提季提孩子[lc]撕咬一整天才能咬完。[br] 其极其喜好来自身体特定器官的刺痛，时常自残。[br] 其行为极其危险，严禁模仿！</info>
+		</haer>
+		<haer id="56">
+			<name id="name_56">吉尔巴帝国</name>
+			<born id="born_56">2021</born>
+			<des id="des_56">神奇的小岛哈儿</des>
+			<dgs id="dgs_56">0</dgs>
+			<haerona id="haerona_56">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_56">1</dgmhx>
+			<die id="die_56">-1</die>
+			<info id="info_56">这是一个居住在一个小岛上的神奇哈儿团。[br] 其宣布[la]19[lb]炼钢党[lc]为其“帝国执政党”，其“精神领袖”为[la]58[lb]父亲[lc]。[br] 其有严格的体制与制度，且其“国旗”极其令人不解。[br] 其“国名”十分不文雅，但其以此为乐。[br] 我们对此非常震惊，并在进一步研究中。</info>
+		</haer>
+		<haer id="57">
+			<name id="name_57">理发师</name>
+			<born id="born_57">2007</born>
+			<des id="des_57">可怕的砍头机器</des>
+			<dgs id="dgs_57">1</dgs>
+			<haerona id="haerona_57">З-2744-27Й</haerona>
+			<dgmhx id="dgmhx_57">0</dgmhx>
+			<die id="die_57">-1</die>
+			<info id="info_57">这是一个可怕的哈儿，是[la]17[lb]已扭曲矩形对象[lc]的副本。[br] 其十分可怕，常在街头为路人“免费理发”，[br] 但事实上其理发剪为一把0.7m长的砍刀。[br] 已有27个路人死亡，44个路人受重伤，90余人轻伤，无人毫发无损。[br] 过度危险，已被单独隔离并被没收了全部武器。[br] 更多针对其的研究仍在进行中。</info>
+		</haer>
+		<haer id="58">
+			<name id="name_58">父亲</name>
+			<born id="born_58">1974</born>
+			<des id="des_58">令儿子整日愁苦</des>
+			<dgs id="dgs_58">0</dgs>
+			<haerona id="haerona_58">К-2510-51Й</haerona>
+			<dgmhx id="dgmhx_58">0</dgmhx>
+			<die id="die_58">-1</die>
+			<info id="info_58">这是一个神奇的父亲，是[la]56[lb]吉尔巴帝国[lc]的精神领袖、[la]19[lb]炼钢党[lc]员。[br] 在其儿子13岁时进入炼钢党，成为哈儿。[br] 时常强迫其儿子炼钢，但其儿子不是哈儿，是正常人。[br]只要其儿子称呼其为“父亲”就会遭受严厉批评：“这很不礼貌！”[br] 其行为过于异常，令其儿子十分愁苦，最终无奈被送至哈儿实验室。[br] 其每日依然与其儿子联线直播教学炼钢，使得其儿子现已患有精神分裂症。</info>
+		</haer>
+		<haer id="59">
+			<name id="name_59">批评者</name>
+			<born id="born_59">2000</born>
+			<des id="des_59">对什么都不满的哈儿</des>
+			<dgs id="dgs_59">0</dgs>
+			<haerona id="haerona_59">З-2744-27Й</haerona>
+			<dgmhx id="dgmhx_59">0</dgmhx>
+			<die id="die_59">-1</die>
+			<info id="info_59">这是一个对一切都不满的哈儿，时常满口怨言。[br] 我们教导它：“不要再抱怨了，你已经是待遇最好的哈儿了！再这样我们就只好把你销毁了！”[br] 于是其就我们的教导开始了新一轮的抱怨。[br] 其看不起一切人和哈儿，疯狂地发出批评，逼得许多普通哈儿撕咬其身体特定部位。[br] 为防止其被其它哈儿弄死，其已被单独隔离，并每日对其循环播放我们的教导话语。[br] 其目前因为发现自己说不过循环播放的扩音器而陷入悲伤。</info>
+		</haer>
+		<haer id="60">
+			<name id="name_60">自我型大哈儿</name>
+			<born id="born_60">2007</born>
+			<des id="des_60">自吹自擂的哈儿</des>
+			<dgs id="dgs_60">2</dgs>
+			<haerona id="haerona_60">Л-1917-11С</haerona>
+			<dgmhx id="dgmhx_60">0</dgmhx>
+			<die id="die_60">-1</die>
+			<info id="info_60">这是一个喜好自吹自擂的哈儿，令人稍微不适。[br] 时常就自己已知的一点点常识而大肆吹嘘：“我博学多才！”[br] 其喜好饮用高氯酸以展示其的“强大”，这使得其消化道变得极其坚强。[br] 我们出于安全考虑没收了其一切危险化学品，[br] 这导致其开始吸毒以缓解没有强腐蚀性液体可以饮用的愁苦。[br] 其时常在其房内炫耀其“化学实验”，时常爆炸，但其生命力顽强，至今仍安好。</info>
+		</haer>
+		<haer id="61">
+			<name id="name_61">文明者</name>
+			<born id="born_61">2007</born>
+			<des id="des_61">文明的最高境界</des>
+			<dgs id="dgs_61">1</dgs>
+			<haerona id="haerona_61">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_61">0</dgmhx>
+			<die id="die_61">-1</die>
+			<info id="info_61">这是一个十分文明的哈儿，见到人的第一句话就是：“我*你妈！”[br] 时常认为自己是他人的父亲、祖父甚至祖先，并认为自己教子不方。[br] 它每天会强迫至少5人做它的子孙，这使得[lstrw]Л-9218-73З[rstr]同志接受了为期3周的心理治疗。[br] 我们训斥它：“再骂人就把你送去销毁！”于是它骂得更厉害了。[br] 我们目前无法使其停止谩骂，只能不断使用[la]1[lb]季提孩子[lc]来迫使它惨叫而不是辱骂。</info>
+		</haer>
+		<haer id="62">
+			<name id="name_62">阴间观光团</name>
+			<born id="born_62">1824</born>
+			<des id="des_62">使阴间乌烟瘴气</des>
+			<dgs id="dgs_62">6</dgs>
+			<haerona id="haerona_62">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_62">1</dgmhx>
+			<die id="die_62">2021</die>
+			<info id="info_62">这是一个平均约生于1824年的哈儿团，共计7.6人，每日自杀5.2次以进入阴间。[br] 其成员均来自中国黑龙江省海兰泡市，出身不详。此前互相不认识。[br] 1852年至1855年其所有成员均因某些原因在中国河南省，1855年夏日此7.6人互认老乡而结伴同行，[br] 于约1856-1860年期间失踪，可能遭遇了雷击而变成哈儿。[br] 此后，其每日自杀5.6次以进入阴间参观，并强行回到人间，无法阻止。[br] 我们无法理解以上的小数是如何而来、表示什么，但我们很惊讶。[br] 2021年6月哈儿实验室决定对此7.6人实施销毁。[br] 2021年7月15日，哈儿实验室邀请相关人员用一些手段封锁了从阴间回到人间的通道，可以被认为已经销毁。[br] 2021年7月20日其全部成员被一名不愿透露姓名的神职人员“超度”，自此失去踪迹，被认为已经销毁。</info>
+		</haer>
+		<haer id="63">
+			<name id="name_63">IOI帝国</name>
+			<born id="born_63">2019</born>
+			<des id="des_63">技术高超的哈儿团</des>
+			<dgs id="dgs_63">0</dgs>
+			<haerona id="haerona_63">С-1945-08П</haerona>
+			<dgmhx id="dgmhx_63">1</dgmhx>
+			<die id="die_63">-1</die>
+			<info id="info_63">这是一个技术高超的哈儿团，擅长使用计算机对他人实施攻击。[br] 时常趁他人不在且没有正确锁定计算机时使用他人账号从事违法违纪活动，[br] 常常造成重大损失，使他人妻离子散、家破人亡。[br] 其擅长使用计算机辅助解决数学问题，曾一度被认为是人类，但最后我们放弃了这个观点，[br] 因为它们没有应激性，且它们为了防止被鉴定为哈儿而试图贿赂哈儿实验室相关人员一袋（约200个）身体特定部位。[br] 这使得相关人员被吓出精神疾病，目前仍在治疗中。</info>
+		</haer>
+		<haer id="64">
+			<name id="name_64">废弃型人类</name>
+			<born id="born_64">1600</born>
+			<des id="des_64">危害全人类的哈儿</des>
+			<dgs id="dgs_64">5</dgs>
+			<haerona id="haerona_64">ОпенГ-ккмб</haerona>
+			<dgmhx id="dgmhx_64">1</dgmhx>
+			<die id="die_64">-1</die>
+			<info id="info_64">这是一个喜好金钱、财富和权力的哈儿团，年龄不等，出身、国籍、民族均不等。[br] 其试图掌握人类，强迫人类变成它们的奴隶，并不许人类有任何怨言。[br] 一些试图反抗的被奴役者被残忍地杀害，但仍有许多人反抗成功。[br] 过于危险，部分已被单独隔离，另一部分仍在外逃。[br] 哈儿实验室苏维埃于2020年1月15日通过了关于此哈儿团的销毁令。</info>
+		</haer>
+		<haer id="65">
+			<name id="name_65">泳者</name>
+			<born id="born_65">1826</born>
+			<des id="des_65">泳技高超</des>
+			<dgs id="dgs_65">3</dgs>
+			<haerona id="haerona_65">Л-8233-67К</haerona>
+			<dgmhx id="dgmhx_65">0</dgmhx>
+			<die id="die_65">-1</die>
+			<info id="info_65">这是一个生于1826年的哈儿，其来自中国吉林省庙街市，[br] 1846年无缘无故地前往中国吉林省库页岛皮伦图市，到达2天后失踪。[br] 一些目击者称其跳海后游走，再也未出现，疑似变成哈儿。[br] 其以惊人的体力和顽强的意志游到了今哈儿实验室01分部驻地附近。[br] 2018年3月25日，其被鉴定为哈儿。目前身体状况良好，能轻松举起20000kg的物体。</info>
+		</haer>
+		<haer id="66">
+			<name id="name_66">歌唱怒尼威</name>
+			<born id="born_66">1979</born>
+			<des id="des_66">歌声震耳而形象惊人</des>
+			<dgs id="dgs_66">4</dgs>
+			<haerona id="haerona_66">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_66">2</dgmhx>
+			<die id="die_66">-1</die>
+			<info id="info_66">这是一个[la]19[lb]炼钢党[lc]的受害者的身体特定部位，擅长歌唱。[br] 激活它的最好办法是大吼一声：“百鸟乱鸣！”其会立即开始不停地歌唱。[br] 极其吵闹，而如果试图破坏它，则会听到刺耳的惨叫。[br] 其原主人将其发配边疆，于是巡边战士们不得不去耳科检查。[br] 唯一的销毁办法是将其仍入绞肉机，但这可能会导致全世界人双耳失聪。</info>
+		</haer>
+		<haer id="67">
+			<name id="name_67">尖叫鸡</name>
+			<born id="born_67">2007</born>
+			<des id="des_67">使人耳膜破裂</des>
+			<dgs id="dgs_67">2</dgs>
+			<haerona id="haerona_67">Л-8233-67К</haerona>
+			<dgmhx id="dgmhx_67">0</dgmhx>
+			<die id="die_67">-1</die>
+			<info id="info_67">这是[la]17[lb]已扭曲矩形对象[lc]的一个副本。[br]它擅长食用人类排泄物后发出尖叫声，以表示自己的快乐。[br]它在不高兴时会大喊：“奶奶滴！！”令人厌恶而不适。[br]其擅长清理卫生间下水道，时常导致水管爆管，每天把自己卡在破裂的水管里大喊：“奶奶滴！！”[br]尽管没有人愿意救它，我们还是每次都将其救起。[br]目前我们没有找到阻止它清理卫生间下水道的方法，只能使用[la]1[lb]提季提孩子[lc]使其分散注意力。</info>
+		</haer>
+		<haer id="68">
+			<name id="name_68">国际性时尚摇摆鸡</name>
+			<born id="born_68">2007</born>
+			<des id="des_68">ШИЯЧ最受欢迎的鸡</des>
+			<dgs id="dgs_68">0</dgs>
+			<haerona id="haerona_68">Ф-9844-35Х</haerona>
+			<dgmhx id="dgmhx_68">0</dgmhx>
+			<die id="die_68">-1</die>
+			<info id="info_68">这是一个[la]19[lb]炼钢党[lc]的受害者，时常飞快地穿越楼道。[br]我们教导它：“这是危险行为！”于是它更起劲了。[br]它穿越楼道时，从一头走到另一头，并立即转身，直到ШИЯЧ-2019分配室总管处宣布终止空间期。[br]其在穿越楼道时时常出现“摇摆”动作，具体表现为脸朝下，头和身体向两侧甩动，[br]脚向前飞跃着跳，有时会绽放出人猿般的笑容，使得ШИЯЧ分配室内的生物大惊。[br]我们不清楚它的运动速率，因为它可以同时具备两个速率。[br]ШИЯЧ-2019-17和ШИЯЧ-2019-18分配室内的生物认为这是非常优秀的表现，并为其鼓掌。[br]为防止其心灵因此受到伤害，生物们成立了国际性时尚摇摆鸡心理健康保护组织。</info>
+		</haer>
+		<haer id="69">
+			<name id="name_69">甲亢者</name>
+			<born id="born_69">1952</born>
+			<des id="des_69">彼得罗扎沃茨克的传奇哈儿</des>
+			<dgs id="dgs_69">3</dgs>
+			<haerona id="haerona_69">Н-9382-64К</haerona>
+			<dgmhx id="dgmhx_69">0</dgmhx>
+			<die id="die_69">-1</die>
+			<info id="info_69">这是一个严重甲亢的哈儿，于1952年生于[br]苏维埃社会主义共和国联盟卡累利阿-芬兰苏维埃社会主义共和国彼得罗扎沃茨克市，[br]在2007年左右第一次出现在中华人民共和国四川省成都市。[br]在暴风雪中仅穿一件短袖到处游荡。[br]令人震惊和不解的是，它并未因此受到任何损伤。[br]它可能吸食了毒品，因为它皮肤表面温度超过50℃，[br]它这样生活却从不患病，并安稳地活到现在，亦可谓之传奇。</info>
+		</haer>
+		<haer id="70">
+			<name id="name_70">独行者</name>
+			<born id="born_70">2006</born>
+			<des id="des_70">自我感觉良好的哈儿</des>
+			<dgs id="dgs_70">2</dgs>
+			<haerona id="haerona_70">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_70">0</dgmhx>
+			<die id="die_70">-1</die>
+			<info id="info_70">这是一个自我感觉良好的哈儿，没有任何与之交往的哈儿。[br]其具有奇特的行走方式：双臂从不摆动，头向上扬起，极具优越感。[br]它认为这种行为使得自己表现良好，但事实上它被鉴定为“Обезьяна”。[br]我们无法使它醒悟到这种行为的疯狂性，但我们发现它不具备完整的思想。[br]它被认为是21世纪最具DB特色的哈儿，是Борис Ельцин的著名孙子。</info>
+		</haer>
+		<haer id="71">
+			<name id="name_71">雕像</name>
+			<born id="born_71">2005</born>
+			<des id="des_71">介于生命与非生命之间</des>
+			<dgs id="dgs_71">4</dgs>
+			<haerona id="haerona_71">Г-6054-18К</haerona>
+			<dgmhx id="dgmhx_71">2</dgmhx>
+			<die id="die_71">-1</die>
+			<info id="info_71">这是一个永远不会死亡的哈儿簇，由于太哈，只具备存在和开心的功能。[br]我们无法移动它们，因为它没有发生位移的功能。[br]我们也无法销毁它们，因为它们不具备死亡和形变的功能。[br]它们最终被作为雕像观赏，虽然许多时候它们的外观极其不雅。[br]部分类似的哈儿没有保持人形，而且具备位移的功能，[br]于是我们将其做成各种物品销售，例如ШИЯЧ内的所有书包都来自于“雕像”哈儿簇。</info>
+		</haer>
+		<haer id="72">
+			<name id="name_72">玛雅帝国</name>
+			<born id="born_72">2022</born>
+			<des id="des_72">狂热的政教合一的政体</des>
+			<dgs id="dgs_72">0</dgs>
+			<haerona id="haerona_72">В-7851-08З</haerona>
+			<dgmhx id="dgmhx_72">1</dgmhx>
+			<die id="die_72">-1</die>
+			<info id="info_72">这是一个建立为国家的哈儿团，类似于[la]56[lb]吉尔巴帝国[lc]。[br]其为政教合一的国家，唯一被官方认可的宗教为[la]73[lb]战神教[lc]。[br]领袖为[lstrw]Чен Муюань[rstr]，但精神领袖为战神教教皇[lstrw]Тан Джинруй[rstr]。[br]其作为ШИЯЧ新兴的恐怖组织，有无限的前景。</info>
+		</haer>
+		<haer id="73">
+			<name id="name_73">战神教</name>
+			<born id="born_73">2022</born>
+			<des id="des_73">从事危险活动的邪教</des>
+			<dgs id="dgs_73">0</dgs>
+			<haerona id="haerona_73">В-7851-08З</haerona>
+			<dgmhx id="dgmhx_73">1</dgmhx>
+			<die id="die_73">-1</die>
+			<info id="info_73">这是危险哈儿团[la]72[lb]玛雅帝国[lc]的国教，教皇为[lstrw]Тан Джинруй[rstr]。[br]此宗教宣称能使教徒通过一系列手段变成“战神”。[br]其变成“战神”的方法是：在ШИЯЧ的例行测试中采取任何可能的能获取到在测试中取得正面结果的措施，[br]如果此措施生效并产生了有利于参与采取措施的教徒的结果，[br]则参与采取措施并受益的教徒被称为“战神”，[br]其上述措施被称为“当‘战神’”。[br]虽然跟随此宗教能在ШИЯЧ中成为成功的生物，但我们不建议通过上述方式成为生物。</info>
+		</haer>
+		<haer id="74">
+			<name id="name_74">骨灰盒</name>
+			<born id="born_74">2007</born>
+			<des id="des_74">糟糕透顶的被迫害妄想症患者</des>
+			<dgs id="dgs_74">5</dgs>
+			<haerona id="haerona_74">Ф-9844-35Х</haerona>
+			<dgmhx id="dgmhx_74">0</dgmhx>
+			<die id="die_74">-1</die>
+			<info id="info_74">这是一个被迫害妄想症患者，因病情过重而变为哈儿。[br]其无故监视并干涉哈儿实验室工作人员的生活，使得许多人员不得不拒绝继续为此哈儿服务。[br]此哈儿极其危险，认为[lstrw]ОпенГ-ккмб[rstr]同志是鬼魂般的恶魔，[br]教授并组织其它危险哈儿跟踪并监视[lstrw]ОпенГ-ккмб[rstr]同志。[br]我们认为这有可能是刺杀的前兆，因此决定销毁此哈儿。[br]在销毁的过程中，我们意识到它目前没有死亡或停止存在的功能，无法被销毁。[br]2022年2月18日，此哈儿在ШИЯЧ的走廊上使用一名不知情的[la]19[lb]炼钢党[lc]员跟踪[lstrw]А-8139-21Б[rstr]同志后，[br]继续无故监听[lstrw]Г-6054-18К[rstr]同志与[lstrw]Ф-9182-00Л[rstr]同志之间的谈话，[br]使得谈话被迫转移至哈儿实验室无哈儿区内。[br]哈儿实验室06分部危险哈儿管制及实验区于2022年2月19日将其鉴定为危险哈儿并决定加入此列表。</info>
+		</haer>
+		<haer id="75">
+			<name id="name_75">练功者集团</name>
+			<born id="born_75">1990</born>
+			<des id="des_75">集体练习邪教的危险哈儿团</des>
+			<dgs id="dgs_75">3</dgs>
+			<haerona id="haerona_75">В-7851-08З</haerona>
+			<dgmhx id="dgmhx_75">1</dgmhx>
+			<die id="die_75">-1</die>
+			<info id="info_75">这是一个神奇的哈儿团，深受邪教的毒害。[br]其每日在家中练习名为Фалуньгун的邪教，[br]使得其邻里和亲友感到震惊和恐惧。[br]这些哈儿在其住处围绕着一个佛像转圈并行礼，[br]尽管我们多次没收了其练习邪教的工具，但它们意志坚定。[br]其住处被邪教宣传品和从事邪教活动的用品充满。[br]我们对其没有办法，但是坚持每天销毁其邪教用品。</info>
+		</haer>
+		<haer id="76">
+			<name id="name_76">弹簧猪</name>
+			<born id="born_76">2007</born>
+			<des id="des_76">最恶毒的变态疣猪</des>
+			<dgs id="dgs_76">5</dgs>
+			<haerona id="haerona_76">И-3484-09Я</haerona>
+			<dgmhx id="dgmhx_76">0</dgmhx>
+			<die id="die_76">-1</die>
+			<info id="info_76">这是一头极端危险的疣猪，其骨骼不含羟基磷酸钙。[br]经过暴力取样测定（为此有3位自告奋勇的普通哈儿离世），我们发现其骨骼主要由弹簧构成，[br]测定其主要成分为铁，并含有约占质量分数3%的氰根离子。[br]其时常弹动自己的身体，被认为可能吸食了某些被禁止的毒品。[br]其与[la]77[lb]无害鸟[lc]共同试图销毁哈儿实验室苏维埃主席[lstrw]ОпенГ-ккмб[rstr]，在哈儿和哈儿实验室的工作人员中传播流言以分裂集体，[br]盗窃哈儿实验室的物品，包括[lstrw]ОпенГ-ккмб[rstr]的眼镜。[br]其异常自信，认为自己美丽而性感，然而其椭圆的面部就已经说明了一切。[br]其死要面子，以至于被其它哈儿私下称作“大美丽”。[br]我们意识到了这种奇葩哈儿的危害，根据《哈儿实验室危险哈儿销毁操作准则（2022年）》，我们决定将其密封避光于阴凉处储存。[br]其使用奇怪的眼神盯着哈儿实验室的工作人员和前来观光的游客，使得其被6人殴打，[br]但其立即释放了硫化氢以将此6人毒死。目前正在被尝试性销毁。</info>
+		</haer>
+		<haer id="77">
+			<name id="name_77">无害鸟</name>
+			<born id="born_77">2007</born>
+			<des id="des_77">弹簧猪的配位哈儿</des>
+			<dgs id="dgs_77">5</dgs>
+			<haerona id="haerona_77">Д-3298-91Щ</haerona>
+			<dgmhx id="dgmhx_77">0</dgmhx>
+			<die id="die_77">-1</die>
+			<info id="info_77">这是一个表里不一的双面哈儿，是[la]76[lb]弹簧猪[lc]的配位哈儿（不存在附属关系）。[br]该哈儿也积极地参与到销毁[lstrw]ОпенГ-ккмб[rstr]的行动中，被下达了销毁令。[br]该哈儿十分讨人喜欢，拥有极端“美丽”的外表和矫揉造作的神态，[br]就算被辱骂也要通过挑逗、讨好的方式令辱骂者重新对其信任，[br]以此达到不动声色地害死他人的目的。[lstr]我们不建议模仿这种行为。[rstr][br][lstrw]ОпенГ-ккмб[rstr]和[lstrw]Д-2530-60Ю[rstr]对其深感不满，但销毁从未成功。[br]根据《哈儿实验室危险哈儿销毁操作准则（2022年）》，我们决定将其密封避光于阴凉处储存。</info>
+		</haer>
+		<haer id="78">
+			<name id="name_78">地震者</name>
+			<born id="born_78">2007</born>
+			<des id="des_78">不断震动的哈儿</des>
+			<dgs id="dgs_78">3</dgs>
+			<haerona id="haerona_78">И-3484-09Я</haerona>
+			<dgmhx id="dgmhx_78">0</dgmhx>
+			<die id="die_78">-1</die>
+			<info id="info_78">这是一个喜欢不断震动的哈儿，对[la]76[lb]弹簧猪[lc]有特殊喜好。[br]其激烈反对我们对弹簧猪下达的销毁令，并在ШИЯЧ的大厅内震动。[br]其常常在ШИЯЧ例行哈儿宣讲时将手伸进裤子中震动，并观察四周。[br]但其观察四周的行为暴露了其地震的行为，使得其被观测到而被鉴定为危险哈儿。[br]其常常在震动后借纸，假装擤鼻涕，并将其放入裤子中，[br]擦拭地震所产生的以[lstrw]1,12-二氨基-4,9-二氮十二烷（化学式：C[sub]10[rsub]H[sub]26[rsub]N[sub]4[rsub]）[rstr]为主要有效成分的液体，[br]为白色黏稠液体，有石楠花的特殊气味，但由于其清理及时，四周的哈儿尚未发现。[br]我们无法理解其这种行为，但依然为其提供纸巾以清理液体。</info>
+		</haer>
+		<haer id="79">
+			<name id="name_79">烧饼</name>
+			<born id="born_79">2007</born>
+			<des id="des_79">可怕的变质食物</des>
+			<dgs id="dgs_79">5</dgs>
+			<haerona id="haerona_79">И-3484-09Я</haerona>
+			<dgmhx id="dgmhx_79">0</dgmhx>
+			<die id="die_79">-1</die>
+			<info id="info_79">这是最可怕的危险哈儿之一，就像[la]1[lb]提季提孩子[lc]一样。[br]其最初属于宋代一个名为“武大郎”的食物制作者，其在变质后被丢弃。[br]然而其没有降解为其它物质，而是通过特殊方法成为了一个动物，[br]并逃至非洲大草原，奸污了一头非洲疣猪。[br]其与疣猪的共同子孙即是[la]76[lb]弹簧猪[lc]，有极大的破坏性。[br]经过审查，我们认为，该哈儿涉嫌折磨动物和非法制造危险哈儿，且长相猥琐，伤害哈儿和人类的心灵，[br]决定将其销毁。然而直到目前，所有的销毁行动均以失败告终。[br]我们目前将其置于核反应堆中以防万一。</info>
+		</haer>
+		<haer id="80">
+			<name id="name_80">蘑菇</name>
+			<born id="born_80">2007</born>
+			<des id="des_80">令人无法理解的河豚</des>
+			<dgs id="dgs_80">5</dgs>
+			<haerona id="haerona_80">Д-3298-91Щ</haerona>
+			<dgmhx id="dgmhx_80">0</dgmhx>
+			<die id="die_80">-1</die>
+			<info id="info_80">这是一个酷似河豚的蘑菇，常常卷起自己的伞盖以伪装成河豚。[br]其尤其喜好鸟类，与鸟类杂交得到危险哈儿[la]77[lb]无害鸟[lc]。[br]其极其喜好根据事实捏造谣言，撺掇哈儿去威胁哈儿实验室领导人的生命安全。[br]现任哈儿实验室苏维埃主席[lstrw]ОпенГ-ккмб[rstr]是其关键对象，其采用一切手段试图威胁[lstrw]ОпенГ-ккмб[rstr]的生命安全。[br]由于其具有极大的毒性，并同时涉嫌危害哈儿实验室领导人生命安全、非法制造危险哈儿、长相猥琐伤害哈儿心灵等14项理由[br]而被下达了销毁令，但目前仍无法被销毁。[br]为防止极端事件发生，我们将其置于核反应堆内。</info>
+		</haer>
+		<haer id="81">
+			<name id="name_81">西部砍树对象</name>
+			<born id="born_81">2006</born>
+			<des id="des_81">相貌英俊而嗓音动人的自信者</des>
+			<dgs id="dgs_81">3</dgs>
+			<haerona id="haerona_81">Г-6054-18К</haerona>
+			<dgmhx id="dgmhx_81">0</dgmhx>
+			<die id="die_81">-1</die>
+			<info id="info_81">这是一个相貌英俊的哈儿，被来自苏联的哈儿专家称为«Красавец Мужчина»，同时一些来自北美恐怖分子非法占领区的专家称之为"Handsome"（意为：帅气）。[br]其相貌英俊以至于许多异性被吓得精神失常，其歌声动耳以至于许多路人被惊得瘫痪不起。[br]其极其危险，喜好拉着路人唱英文流行歌曲或大声用英文陈述自己的观点。[br]令人震惊的是，其曾经拉着哈儿实验室苏维埃主席[lstrw]ОпенГ-ккмб[rstr]大声陈述其对哈儿实验室06分部（ШИЯЧ）的看法，[br]并说出这样的话语：“你很享受你的初中生活，我很享受我的高中生活，但是像那个人……”并指向一个路过的普通哈儿。[br]随后哈儿实验室的工作人员迅速将该哈儿带离现场。[br]过于危险，严禁靠近。</info>
+		</haer>
+		<haer id="82">
+			<name id="name_82">倒立者</name>
+			<born id="born_82">2007</born>
+			<des id="des_82">倒立索赔的哈儿</des>
+			<dgs id="dgs_82">2</dgs>
+			<haerona id="haerona_82">И-3484-09Я</haerona>
+			<dgmhx id="dgmhx_82">0</dgmhx>
+			<die id="die_82">-1</die>
+			<info id="info_82">这是一个喜好倒立并索赔的哈儿。其常常坐在他人的座位上，将自己倒立起来并向座位的主人索赔。[br]该哈儿曾经是一个普通哈儿，但在其被一个力气极大的哈儿按在座位上倒立后，[br]出现了这种奇怪的癖好。其为这个强壮的哈儿画了一张蓝色的肖像，[br]并取名为《Ху Уинщияу上课搞Джи》，随后将其四处展示。[br]这使得这个强壮的哈儿十分愤怒，但我们阻止了哈儿之间的冲突。</info>
+		</haer>
+		<haer id="83">
+			<name id="name_83">掌掴哈儿团</name>
+			<born id="born_83">2007</born>
+			<des id="des_83">互相掌掴的哈儿团</des>
+			<dgs id="dgs_83">1</dgs>
+			<haerona id="haerona_83">Ч-4549-02Ш</haerona>
+			<dgmhx id="dgmhx_83">1</dgmhx>
+			<die id="die_83">-1</die>
+			<info id="info_83">这是一个哈儿数为2的哈儿团，喜好互相掌掴。[br]其时常到卫生间的隔间中相互掌掴，并以此为乐。[br]我们常常发现这两个哈儿说笑着走进卫生间的同一个隔间里去，[br]并听到清脆的掌掴声和大笑声，并听到它们得出某一方获胜的结论。[br]随后，这两个哈儿肿着脸走出来，又一路说笑着离开。[br]这令我们十分不解，尽管它们一有空就相互掌掴。[br]我们建议不靠近这个哈儿团，因为它们可能会将您纳入掌掴的范畴。[br]它们下手极重，一般人类可能会遭受严重的伤害，例如被打掉牙齿或下颌骨脱臼。[br]我们所见过最可怕的案例是：一个普通哈儿试图加入它们，它们友好地接受了这个新的哈儿并一掌将其头部拍碎，脑浆四溅。[br]如果您没有佩戴军用钢盔一类的防护用具，请不要靠近它们。</info>
+		</haer>
+		<haer id="84">
+			<name id="name_84">艹</name>
+			<born id="born_84">2007</born>
+			<des id="des_84">大声叫喊“我艹”的哈儿</des>
+			<dgs id="dgs_84">0</dgs>
+			<haerona id="haerona_84">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_84">0</dgmhx>
+			<die id="die_84">-1</die>
+			<info id="info_84">这是一个喜好大声叫喊“我艹”的哈儿，对哈儿实验室06分部苏维埃主席[lstrw]Д-2530-60Ю[rstr]有特殊癖好。[br]每当这个哈儿遇见[lstrw]Д-2530-60Ю[rstr]，都大声喊道“我艹”，并激烈地向同行的哈儿介绍[lstrw]Д-2530-60Ю[rstr]。[br]这使得[lstrw]Д-2530-60Ю[rstr]不愿意见到这个哈儿，但这个哈儿并不顾虑。[br]该哈儿的母节点哈儿喜好让该哈儿模仿[lstrw]Д-2530-60Ю[rstr]，[br]例如当[lstrw]Д-2530-60Ю[rstr]背诵中国传统名著《红楼梦》中的语句时，[r]该哈儿也被命令去背诵同样的内容。[br]我们不知道这是为什么，但我们被深深地震撼。</info>
+		</haer>
+		<haer id="85">
+			<name id="name_85">恐惧症</name>
+			<born id="born_85">2007</born>
+			<des id="des_85">ШИЯЧ的全能神</des>
+			<dgs id="dgs_85">0</dgs>
+			<haerona id="haerona_85">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_85">0</dgmhx>
+			<die id="die_85">-1</die>
+			<info id="info_85">这是一个全能的哈儿，活动于ШИЯЧ地带。[br]其无所不能，以至于能够熟练地使用中文、英语、日语及俄语，[br]尽管来自苏联的一些哈儿实验室工作人员认为其并不能合理地使用俄语。[br]其能够从事类似于警察和军人的一些活动，但远未达到真正警察的水平。[br]其喜好武力制服其它哈儿，引发了许多哈儿的愤怒。[br]其喜好高估自己在ШИЯЧ例行测试中的结果以恐吓其它哈儿。[br]其阅读《资本论》、《马克思恩格斯全集》等书籍，但其显然没有驾驭这些书籍的能力。[br]经过哈儿实验室06分部全体哈儿公投，[br]决定于2022年7月10日起将其移交危险哈儿管制及实验区管理。</info>
+		</haer>
+		<haer id="86">
+			<name id="name_86">Джоу Ифан</name>
+			<born id="born_86">2007</born>
+			<des id="des_86">第一个以协议形式确定的哈儿</des>
+			<dgs id="dgs_86">0</dgs>
+			<haerona id="haerona_86">Ч-6494-82Ш</haerona>
+			<dgmhx id="dgmhx_86">0</dgmhx>
+			<die id="die_86">-1</die>
+			<info id="info_86">这是第一个以协议形式确定的哈儿，[br]于2022年6月1日与提季提共产党中央委员会代表[lstrw]Ч-6494-82Ш[rstr]签署[br]《提季提民主共和国关于向哈儿苏维埃联邦社会主义共和国移交诸多危险哈儿的协议（2022年）》后，[br]被移交至哈儿实验室06分部危险哈儿管制及实验区。[br]鉴于其为位于提季提民主共和国首都提季提斯克市的哈儿实验室03分部中唯一未被鉴定为哈儿的移交对象，[br]我们通过签署附加协议的方式[sub]（详见《关于⟨提季提民主共和国关于向哈儿苏维埃联邦社会主义共和国移交诸多危险哈儿的协议（2022年）⟩的附加协议》）[rsub]，[br]将其鉴定为哈儿。目前其相关性质仍在研究。</info>
+		</haer>
+		<haer id="87">
+			<name id="name_87">法官</name>
+			<born id="born_87">1928</born>
+			<des id="des_87">在法庭上施法的哈儿</des>
+			<dgs id="dgs_87">2</dgs>
+			<haerona id="haerona_87">Ж-3480-29Щ</haerona>
+			<dgmhx id="dgmhx_87">0</dgmhx>
+			<die id="die_87">-1</die>
+			<info id="info_87">这是一个在法庭上施法的哈儿，自称为法官。[br]其在1978年于德意志民主共和国首都东柏林被哈儿共产主义复兴同盟（哈儿实验室在2018年3月前的称呼）捕获，[br]我们发现其没有任何身份证件，并游荡于东柏林的下水道中。[br]我们不清楚其是如何到达这里的，但其坚持认为其杀死了3个人。[br]因此我们在2022年6月于提季提民主共和国审理该案件，[br]发现其在法庭上施法，并认为自己应当坐在法官的座位上，[br]要求将真正的法官安置在被告席接受审判。由此，[br]我们以精神失常及其供述的3名被害者不存在为由宣布其无罪并移交哈儿实验室03分部危险哈儿管制及实验区管理。</info>
+		</haer>
+		<haer id="88">
+			<name id="name_88">室内主体对象</name>
+			<born id="born_88">2007</born>
+			<des id="des_88">非法占用房间的哈儿簇</des>
+			<dgs id="dgs_88">3</dgs>
+			<haerona id="haerona_88">В-7851-08З</haerona>
+			<dgmhx id="dgmhx_88">2</dgmhx>
+			<die id="die_88">-1</die>
+			<info id="info_88">这是一个喜好非法占用房间的哈儿簇，被来自苏联的一些工作人员亲切地称呼为«Жильцы Комнаты»。[br]其时常占用ШИЯЧ西二楼的被称为«Классы»的房间，[br]理由是其它哈儿发出的机械波振幅过大。[br]我们认为这是完全没有道理的，但该哈儿簇的成员们坚持自己的立场。[br]这导致有时一整层楼都无法找到一间无人的«Класс»房间。[br]我们对此感到无法理解，并同时不能理解这些哈儿的虚伪，[br]以及其每日自行完成一次关于Математика和Физика的例行测试的行为。</info>
+		</haer>
+		<haer id="89">
+			<name id="name_89">Гао Хунъин</name>
+			<born id="born_89">1950</born>
+			<des id="des_89">亲近人类的哈儿</des>
+			<dgs id="dgs_89">4</dgs>
+			<haerona id="haerona_89">А-8139-21Б</haerona>
+			<dgmhx id="dgmhx_89">0</dgmhx>
+			<die id="die_89">-1</die>
+			<info id="info_89">这是一个亲近人类的哈儿，尤其喜好青年人类。[br]其常常撑着太阳伞与人类在烈日下一起晒着太阳谈心，[br]并消除人类的全部质疑。其认为人类没有资格质疑它。[br]其认为生病的人类都须要在烈日下以站姿接受暴晒，[br]并夺取和浪费民兵的粮食，遭到民兵的唾弃。[br]其强迫人类完成其指定的测试，但这个测试是测验人类是否能够背诵ШИЯЧ内的哈儿自行制定的《哈儿守则》。[br]我们认为人类没有必要学习这些对哈儿的约束性文件。但该哈儿认为这很有必要。[br]其见青年人类没有被其对应的负责人惩罚，便以自己的[uns]为威胁强迫负责人去这样做。[br]这给负责人留下了终生的心理阴影。我们认为像这样喜好奸污人类的哈儿过于危险，[br]于是将其密封置于3273.15K及607.950kPa的环境中储存。</info>
+		</haer>
+		<haer id="90">
+			<name id="name_90">圣母簇</name>
+			<born id="born_90">1945</born>
+			<des id="des_90">心怀慈悲的哈儿簇</des>
+			<dgs id="dgs_90">5</dgs>
+			<haerona id="haerona_90">ОпенГ-ккмб</haerona>
+			<dgmhx id="dgmhx_90">2</dgmhx>
+			<die id="die_90">-1</die>
+			<info id="info_90">这是一个心怀慈悲的哈儿簇，喜好指责人类。[br]其对无产阶级和共产党人实施极端的抹黑和残酷的迫害，[br]并控制社会主义国家的自由人民的思想，使之支持极权主义运动。[br]这些人民意识到自己陷入了极权主义的独裁统治时都后悔不已，但又无能为力。[br]我们认为，这样的哈儿簇严重干扰了人类的正常生活：[br]其将人类从幸福、自由、开放的社会主义社会拖回恐怖、独裁、愚昧的资本主义社会，[br]并强迫人民承认这才是真正的“自由”。其常常对追求自由的人类施加酷刑，[br]并试图残害更多幸福的人民。哈儿实验室苏维埃于2022年7月通过了对该哈儿簇的销毁令，[br]我们将通过革命和持久战的方式对其彻底销毁。</info>
+		</haer>
+		<haer id="91">
+			<name id="name_91">马人窗台口</name>
+			<born id="born_91">2014</born>
+			<des id="des_91">酷似哈儿门的伟大窗台</des>
+			<dgs id="dgs_91">4</dgs>
+			<haerona id="haerona_91">Ф-9182-00Л</haerona>
+			<dgmhx id="dgmhx_91">0</dgmhx>
+			<die id="die_91">-1</die>
+			<info id="info_91">这是一个性质酷似哈儿门的窗台，于2014年被当地哈儿发现。[br]该哈儿常常卡住试图穿越其中的任何固体，无论是尘埃还是导弹。[br]经过实验发现，一般身体较为强壮的生物在其中会被卡成哈儿，[br]而身体较为瘦弱的生物会命丧其中。这使得其能充当哈儿门使用。[br]因此，我们决定将其安装在哈儿门（哈儿实验室正门）以东200米的哈儿实验室警戒墙上，[br]并在其顶部书写“哈儿实验室安全入口”，[br]以便将已经知道从正门进入哈儿实验室会被电成哈儿[br]而不从正门进入的人引诱至此并使之在其中被卡成哈儿。</info>
+		</haer>
+		<haer id="92">
+			<name id="name_92">Пу Хунмэй</name>
+			<born id="born_92">1960</born>
+			<des id="des_92">可怕的妖婆</des>
+			<dgs id="dgs_92">3</dgs>
+			<haerona id="haerona_92">Д-3298-91Щ</haerona>
+			<dgmhx id="dgmhx_92">0</dgmhx>
+			<die id="die_92">-1</die>
+			<info id="info_92">这是一个活动于ШИЯЧ的老哈儿，极其危险。[br]ШИЯЧ分配室内的生物报告，这是比[la]89[lb]Гао Хунъин[lc]更可怕的哈儿，[br]令人窒息和死亡。目前我们正在对其进行进一步研究。</info>
+		</haer>
+		<haer id="93">
+			<name id="name_93">懂姐</name>
+			<born id="born_93">2007</born>
+			<des id="des_93">智慧而先进的哈儿</des>
+			<dgs id="dgs_93">0</dgs>
+			<haerona id="haerona_93">Ц-4855-92Р</haerona>
+			<dgmhx id="dgmhx_93">0</dgmhx>
+			<die id="die_93">-1</die>
+			<info id="info_93">这是一个十分智慧的哈儿，自认为自己比周围的任何生物都更加智慧。[br]其每次参加哈儿实验室开展的ШИЯЧ高等智力哈儿学习班时，[br]总是大声地说出在场的所有人类和哈儿都早已清楚的事实，[br]并认为只有自己知道，因而认为其他人类和哈儿会对其展开崇拜活动。[br]而当遇到其无法解决的问题，尽管这些问题的难度不大，其也常常一言不发。[br]这使得四周的人类和哈儿因为其滑稽的行为而忍俊不禁。[br]然而其坚持认为这是其智力水平达到世界顶峰的有力证据。</info>
+		</haer>
+		<haer id="94">
+			<name id="name_94">自信姐</name>
+			<born id="born_94">2007</born>
+			<des id="des_94">自认为拥有极大魅力的哈儿</des>
+			<dgs id="dgs_94">3</dgs>
+			<haerona id="haerona_94">Д-3298-91Щ</haerona>
+			<dgmhx id="dgmhx_94">0</dgmhx>
+			<die id="die_94">-1</die>
+			<info id="info_94">这是危险哈儿[la]77[lb]无害鸟[lc]于2022年10月15日的第824次销毁失败后分裂的副本，[br]具有极强的攻击性和破坏性。其自认为自己具有极强的吸引力，[br]认为几乎所有的哈儿和人类都喜欢自己，并异常自信。[br]其傲慢自大，在其所处的分配室中肆意妄为，[br]抛弃自己排出的代谢废物并要求分配室内的人类清理，[br]在夜晚发出巨大声响，并要求移除对其行为进行抗议的人类。[br]目前，哈儿实验室06分部危险哈儿管制及实验区正在讨论是否将其列为待销毁哈儿。</info>
+		</haer>
+		<haer id="95">
+			<name id="name_95">自信哥</name>
+			<born id="born_95">2007</born>
+			<des id="des_95">自认为自己智慧没有边际的哈儿</des>
+			<dgs id="dgs_95">3</dgs>
+			<haerona id="haerona_95">Н-7469-37У</haerona>
+			<dgmhx id="dgmhx_95">0</dgmhx>
+			<die id="die_95">-1</die>
+			<info id="info_95">这是一个极其自信的哈儿，认为自己的思想超越世界各国领导人。[br]其全面否定中国的社会主义建设成果，侮辱中国领导人，并认为中国一无是处。[br]其坚持反对社会主义，尽管其并不知道社会主义究竟是什么。[br]其自认为自己拥有最高的智慧，恶意辱骂试图对其进行劝慰的人类和哈儿，[br]并努力营造一种痛恨中国和中国共产党的氛围。[br]哈儿实验室认为这是不可容忍的性质恶劣的思想入侵行为，并对该名哈儿进行单独隔离教育。[br]目前，该名哈儿正在接受社会主义思想的专项教育。</info>
+		</haer>
+		<haer id="96">
+			<name id="name_96">枪支哈儿团</name>
+			<born id="born_96">2007</born>
+			<des id="des_96">不断发射子弹的哈儿团</des>
+			<dgs id="dgs_96">1</dgs>
+			<haerona id="haerona_96">Д-2530-60Ю</haerona>
+			<dgmhx id="dgmhx_96">1</dgmhx>
+			<die id="die_96">-1</die>
+			<info id="info_96">这是一个喜好发射子弹的危险哈儿团，常常在午休时突然开火。[br]其所处的ШИЯЧ分配室因此而遭到毁灭性打击，但其坚持从事这样的危险行为。[br]当我们步入其生活的分配室时，我们能闻到一股剧烈的恶臭味，[br]这是其子弹内火药燃烧后的产物的气味。[br]我们坚持阻止其上述行为，但遭到了枪炮的袭击，[br]这使得受袭的工作人员陷入昏迷并被迫住院三个月。[br]为防止其继续从事袭击活动，我们目前正在设法销毁其枪支弹药。</info>
+		</haer>
+		<haer id="97">
+			<name id="name_97">智者</name>
+			<born id="born_97">1922</born>
+			<des id="des_97">对哈儿实施精神污染的灾难性生物</des>
+			<dgs id="dgs_97">0</dgs>
+			<haerona id="haerona_97">Ж-3480-29Щ</haerona>
+			<dgmhx id="dgmhx_97">0</dgmhx>
+			<die id="die_97">-1</die>
+			<info id="info_97">这是一个喜好对哈儿实施精神污染的哈儿，导致多名哈儿遭受不可逆的智力损失。[br]此哈儿“教导”其它哈儿，并使它们开始用洗手液洗头。[br]被其教导的哈儿通常陷入生活无法自理的境地，导致哈儿实验室下辖地区内护理机构超负荷运转。[br]目前，哈儿实验室正设法教育该哈儿用洗手液洗头，以停止其此类行为。</info>
+		</haer>
+		<haer id="98">
+			<name id="name_98">海柱</name>
+			<born id="born_98">1920</born>
+			<des id="des_98">极端危险的水生哈儿</des>
+			<dgs id="dgs_98">3</dgs>
+			<haerona id="haerona_98">Ю-5282-43Ц</haerona>
+			<dgmhx id="dgmhx_98">0</dgmhx>
+			<die id="die_98">-1</die>
+			<info id="info_98">这是一个生活在深海中的哈儿，尚未被捕获。[br]据目击者称，该哈儿呈柱状，以“令人无法理解”的方式移动。[br]该哈儿攻击过路船只，并吞噬其中的人类。[br]目前，该哈儿的具体信息尚未查明。[br][lstr]不建议与该哈儿私自接触！[rstr]</info>
+		</haer>
+		<haer id="99">
+			<name id="name_99">帅哥</name>
+			<born id="born_99">2007</born>
+			<des id="des_99">世界上最英俊的哈儿</des>
+			<dgs id="dgs_99">0</dgs>
+			<haerona id="haerona_99">Л-9218-73З</haerona>
+			<dgmhx id="dgmhx_99">0</dgmhx>
+			<die id="die_99">-1</die>
+			<info id="info_99">这是一个英俊的哈儿，时常使他人消失。[br]当任何有自主意识的物体看到该哈儿时，其将感到发自心底的仰慕，[br]然后对自己的容貌感到自卑，直至自卑得当场消失。[br]其居住地附近的哈儿说：“如果该哈儿拿起镜子照向自己，就会引发宇宙的毁灭。”[br]因此，我们严厉禁止该哈儿接触任何可能充当镜子的物体。</info>
+		</haer>
+		<haer id="100">
+			<name id="name_100">“我”</name>
+			<born id="born_100">2007</born>
+			<des id="des_100">炼钢党受害者集团</des>
+			<dgs id="dgs_100">1</dgs>
+			<haerona id="haerona_100">Ж-6217-15Б</haerona>
+			<dgmhx id="dgmhx_100">1</dgmhx>
+			<die id="die_100">-1</die>
+			<info id="info_100">这是一个由四个哈儿组成的哈儿团，其成员均是[la]19[lb]炼钢党[lc]的受害者。[br]这四个哈儿经常居住在树洞中，并使用望远镜观察远处的人类。[br]其时常吞噬人类的物品，并对人类实施危险的猥亵行为。[br]当哈儿实验室工作人员询问这四名哈儿的姓名时，其均回答：“我。”[br]因此，这四名哈儿组成的哈儿团被命名为“我”。</info>
+		</haer>
+		<!--<haer id="idd">
+			<name id="name_idd">哈儿名称</name>
+			<born id="born_idd">哈儿出生年份</born>
+			<des id="des_idd">概要</des>
+			<dgs id="dgs_idd">ХИРГ值</dgs>
+			<haerona id="haerona_idd">负责人</haerona>
+			<dgmhx id="dgmhx_idd">哈儿性质，0=哈儿，1=哈儿团，2=哈儿簇</dgmhx>
+			<die id="die_idd">被销毁或死亡年份，如果ХИРГ=6/8/9则有效，否则die值默认设置为-1且不被使用</die>
+			<info id="info_idd">哈儿详细信息（HTML5，不支持其它一切例如Markdown、LaTeX的插件）。支持以下缩略：[Uns] “禁止显示”  [br] 换行  [lstr] 红色加粗字体开始  [lstrw] 加粗字体开始  [rstr] （红色）加粗字体结束  [flagoj] 哈儿旗帜标识  [la]idd[lb]name[lc] 哈儿链接  [las]link[lb]name[lc] 其它链接</info>
+		</haer>-->
+	</haerdata>
+</lib>
