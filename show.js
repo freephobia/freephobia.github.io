@@ -39,8 +39,8 @@ function about(division_num,_rus)//输出版权信息
         _name+=tmp+"分部";
         _name_rus="Подразделение "+tmp+" Лаборатории Хаера";
     }
-    if(_rus)document.getElementById("_copyright").innerHTML=_name+" &copy; 2018-"+thisyear+" 保留所有权利。<br>"+_name_rus+" &copy; 2018-"+thisyear+" Все права защищены.";
-    else document.getElementById("_copyright").innerHTML=_name+" &copy; 2018-"+thisyear+" 保留所有权利。";
+    if(_rus)document.getElementById("about_index").innerHTML=_name+" &copy; 2018-"+thisyear+" 保留所有权利。<br>"+_name_rus+" &copy; 2018-"+thisyear+" Все права защищены.";
+    else document.getElementById("about_index").innerHTML=_name+" &copy; 2018-"+thisyear+" 保留所有权利。";
     return;
 }
 function tproc()//预处理（XMLHttpRequest方法）
