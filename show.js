@@ -1,4 +1,4 @@
-﻿console.log("Version: 20250725 ##3.1");
+console.log("Version: 20250725 ##3.2");
 function getQ(hname)//获取参数
 {
     var reg=new RegExp("(^|&)"+hname+"=([^&]*)(&|$)","i");
@@ -63,14 +63,13 @@ function tproc2()//预处理
    .then(data => {
         const parser = new DOMParser();
         xmlDoc = parser.parseFromString(data, 'application/xml');
-         // 操作xmlDoc
+        console.log(xmlDoc); 
+		mhn=Number(xmlDoc.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
+		minhn=Number(xmlDoc.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
+		actualminhn=Number(xmlDoc.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
+		rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
     })
     .catch(error => {return false});
-	console.log(xmlDoc); 
-    mhn=Number(xmlDoc.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
-	minhn=Number(xmlDoc.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
-	actualminhn=Number(xmlDoc.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
-	rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
     return true;
 }
 function run()//БДОХЛХ主页面运行函数
