@@ -1,4 +1,4 @@
-﻿console.log("Version: 20250725 ##2");
+﻿console.log("Version: 20250725 ##3");
 function getQ(hname)//获取参数
 {
     var reg=new RegExp("(^|&)"+hname+"=([^&]*)(&|$)","i");
@@ -56,28 +56,27 @@ function tproc()//预处理（XMLHttpRequest方法）
 	rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
 	return true;
 }
-// function tproc2()//预处理
-// {
-// 	fetch(XMLFILEURL_ORI)
-//         .then(response => response.text())
-//         .then(xmlString => {
-//             const parser = new DOMParser();
-//             const xmlDoc = parser.parseFromString(xmlString, "text/xml");
-
-//             mhn=Number(xmlDoc.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
-// 			minhn=Number(xmlDoc.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
-// 			actualminhn=Number(xmlDoc.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
-// 			rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
-
-//     	})
-// 		.catch(error => {return false});
-// 	return true;
-// }
+function tproc2()//预处理
+{
+	fetch(XMLFILEURL_ORI)
+   .then(response => response.text())
+   .then(data => {
+        const parser = new DOMParser();
+        xmlDoc = parser.parseFromString(data, 'application/xml');
+        console.log(xmlDoc);  // 操作xmlDoc
+    })
+    .catch(error => {return false});
+    mhn=Number(xmlDoc.getElementsByTagName("mhn")[0].childNodes[0].nodeValue);
+	minhn=Number(xmlDoc.getElementsByTagName("minhn")[0].childNodes[0].nodeValue);
+	actualminhn=Number(xmlDoc.getElementsByTagName("actualminhn")[0].childNodes[0].nodeValue);
+	rg=Number(xmlDoc.getElementsByTagName("rg")[0].childNodes[0].nodeValue);//以上为获取这些基本值的步骤
+    return true;
+}
 function run()//БДОХЛХ主页面运行函数
 {
 	var idd=getQ("haer");//idd：请求的哈儿编号
 	document.getElementById("sid").value=idd;//将编号填充至搜索框内
-	if(!tproc())//浏览器版本太旧，提示用户更新浏览器
+	if(!tproc2())//浏览器版本太旧，提示用户更新浏览器
 	{
 		document.getElementById("title").innerHTML=ne_title;//页面标题
 		document.getElementById("main").innerHTML=ne_body;//页面内容（正文）
@@ -103,11 +102,11 @@ function run()//БДОХЛХ主页面运行函数
 		return;
 	}
 	//test
-	const haers=xmlDoc.querySelectorAll('haer');
-	haers.forEach((haer) => {
-		const _hname=haers.querySelector('name').textContent;
-		console.log(_hname);
-	});
+	// const haers=xmlDoc.querySelectorAll('haer');
+	// haers.forEach((haer) => {
+	// 	const _hname=haers.querySelector('name').textContent;
+	// 	console.log(_hname);
+	// });
 	//test
 	hname=xmlDoc.getElementById("name_"+idd).childNodes[0].nodeValue;
 	born=Number(xmlDoc.getElementById("born_"+idd).childNodes[0].nodeValue);
@@ -157,7 +156,7 @@ function run()//БДОХЛХ主页面运行函数
 function runtable()//БДОХЛХ索引运行函数
 {
 	let rng="<tr><th>危险哈儿号码</th><th>危险哈儿名称</th><th><a style=\"color: #FFFFFF;\" href=\"\" target=\"_blank\">哈儿综合能力等级</a></th></tr>\n",dgsv,dgsest,dgmht,hnlt;//rng：表格内容，初始化时只有这个表头；dgsv：ХИРГ名称（临时存储用的变量）
-	if(!tproc())//浏览器版本太旧
+	if(!tproc2())//浏览器版本太旧
 	{
 		document.getElementsByTagName("title")[0].innerHTML=ne_title;//页面标题
 		document.getElementByTagName("body")[0].innerHTML=ne_body;//页面内容（正文）
