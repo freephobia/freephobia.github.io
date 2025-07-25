@@ -81,7 +81,7 @@ function run()//БДОХЛХ主页面运行函数
 	{
 		document.getElementById("title").innerHTML=ne_title;//页面标题
 		document.getElementById("main").innerHTML=ne_body;//页面内容（正文）
-		about();//输出版权信息
+		about(-1,true);//输出版权信息
 		return;//不知为何，我试图用IE打开时，什么也没有输出？？（反正都应该不会用这种古董了，算了）
 	}
 	qj="["+minhn+","+mhn+"]";
@@ -91,7 +91,7 @@ function run()//БДОХЛХ主页面运行函数
 		document.getElementById("title").innerHTML="无档案"+TITLE_TAIL;//页面标题
 		document.getElementById("main").innerHTML="<h1 style=\" color: #FFAAAA;\">没有关于这个哈儿的档案</h1>";//页面内容（正文）
 		document.getElementById("haernum").innerHTML=qj;//当前可用哈儿
-		about();//输出版权信息
+		about(-1,true);//输出版权信息
 		return;
 	}
 	if(idd==null)
@@ -99,7 +99,7 @@ function run()//БДОХЛХ主页面运行函数
 		document.getElementById("title").innerHTML="未选择"+TITLE_TAIL;//页面标题
 		document.getElementById("main").innerHTML="<h1 style=\" color: #FFAAAA;\">请选择一个哈儿</h1>";//页面内容（正文）
 		document.getElementById("haernum").innerHTML=qj;//当前可用哈儿
-		about();//输出版权信息
+		about(-1,true);//输出版权信息
 		return;
 	}
 	hname=xmlDoc.getElementById("name_"+idd).childNodes[0].nodeValue;
@@ -154,7 +154,7 @@ function runtable()//БДОХЛХ索引运行函数
 	{
 		document.getElementsByTagName("title")[0].innerHTML=ne_title;//页面标题
 		document.getElementByTagName("body")[0].innerHTML=ne_body;//页面内容（正文）
-		about();//输出版权信息
+		about(-1,true);//输出版权信息
 		return;
 	}
 	for(let j=minhn;j<=mhn;++j)//j相当于run()中的idd变量
@@ -162,9 +162,7 @@ function runtable()//БДОХЛХ索引运行函数
 		dgsest=xmlDoc.getElementById("dgs_"+j).childNodes[0].nodeValue;
 		dgmht=xmlDoc.getElementById("dgmhx_"+j).childNodes[0].nodeValue;
 		hnlt=xmlDoc.getElementById("name_"+j).childNodes[0].nodeValue;
-		dgsv=dg[dgsest];//获取此哈儿对应的ХИРГ名称
-		if(dgmht==1)dgsv+="团";//如果是哈儿团就使ХИРГ名称由“XXX哈儿”变为“XXX哈儿团”
-		else if(dgmht==2)dgsv+="簇";
+		dgsv=dg[dgsest]+HAER_GROUP_ENDING[dgmht];//获取此哈儿对应的ХИРГ名称
 		rng+="<tr><td style=\"color: #AAFFAA;\">"+j+"</td><td><a style=\"color: #AAFFFF;\" href=\"/?haer="+j+"\" target=\"_blank\">"+hnlt+"</a></td><td style=\"color: #FFFFAA;\">"+dgsv+"</td></tr>\n";//添加每行的内容
 	}
 	document.getElementById("table").innerHTML=rng;//输出到页面
