@@ -159,7 +159,7 @@ function runtable()//БДОХЛХ索引运行函数
 	// 	about(-1,true);//输出版权信息
 	// 	return;
 	// }
-	tproc3();
+	tproc();
 	for(let j=minhn;j<=mhn;++j)//j相当于run()中的idd变量
 	{
 		dgsest=xmlDoc.getElementById("dgs_"+j).childNodes[0].nodeValue;
