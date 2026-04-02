@@ -78,7 +78,7 @@ function run()//БДОХЛХ主页面运行函数
 	// 	about(-1,true);//输出版权信息
 	// 	return;//不知为何，试图用IE打开时，完全没有输出
 	// }
-	tproc3();
+	tproc();
 	qj="["+minhn+","+mhn+"]";
 	console.log("[BasicInfo]: [mhn:"+mhn+" minhn:"+minhn+" actualminhn:"+actualminhn+" rg:"+rg+"]");//输出测试信息
 	if((idd<actualminhn)||(idd>mhn))//没有档案，输出没有档案的说明并停止运行
